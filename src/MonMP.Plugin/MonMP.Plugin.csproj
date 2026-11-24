@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>MonMP</AssemblyName>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="../../docs/interaction-coverage.tsv" LogicalName="MonMP.InteractionCoverage.tsv" Condition="'$(MonMPDevelopmentTools)' == 'true'" />
+    <EmbeddedResource Include="Replication/Defaults/HeldGrips.json" LogicalName="MonMP.HeldGripDefaults.json" />
+    <EmbeddedResource Include="Replication/Defaults/VehicleSeatPoses.json" LogicalName="MonMP.VehicleSeatPoseDefaults.json" />
+    <EmbeddedResource Include="Replication/Defaults/CargoBounds.json" LogicalName="MonMP.CargoBoundsDefaults.json" />
+    <EmbeddedResource Include="UI/AppearancePortraits/*.png" LogicalName="MonMP.Appearance.%(Filename)%(Extension)" />
+    <EmbeddedResource Include="UI/AppearancePortraits/manifest.json" LogicalName="MonMP.Appearance.Manifest.json" Condition="Exists('UI/AppearancePortraits/manifest.json')" />
+    <ProjectReference Include="../MonMP.Core/MonMP.Core.csproj" />
+    <Reference Include="BepInEx" HintPath="$(BepInExDirectory)/BepInEx.dll" Private="false" />
+    <Reference Include="0Harmony" HintPath="$(BepInExDirectory)/0Harmony.dll" Private="false" />
+    <Reference Include="Mono.Cecil" HintPath="$(BepInExDirectory)/Mono.Cecil.dll" Private="false" />
+    <Reference Include="MonoMod.Utils" HintPath="$(BepInExDirectory)/MonoMod.Utils.dll" Private="false" />
+    <Reference Include="MonoMod.RuntimeDetour" HintPath="$(BepInExDirectory)/MonoMod.RuntimeDetour.dll" Private="false" />
+    <Reference Include="Assembly-CSharp" HintPath="$(GameManaged)/Assembly-CSharp.dll" Private="false" />
+    <!-- Borrow the game's exact Steamworks.NET binding; never ship or initialize another copy. -->
+    <Reference Include="com.rlabrecque.steamworks.net" HintPath="$(GameManaged)/com.rlabrecque.steamworks.net.dll" Private="false" />
+    <Reference Include="UnityEngine" HintPath="$(GameManaged)/UnityEngine.dll" Private="false" />
+    <Reference Include="UnityEngine.CoreModule" HintPath="$(GameManaged)/UnityEngine.CoreModule.dll" Private="false" />
+    <Reference Include="UnityEngine.IMGUIModule" HintPath="$(GameManaged)/UnityEngine.IMGUIModule.dll" Private="false" />
+    <Reference Include="UnityEngine.PhysicsModule" HintPath="$(GameManaged)/UnityEngine.PhysicsModule.dll" Private="false" />
+    <Reference Include="UnityEngine.ParticleSystemModule" HintPath="$(GameManaged)/UnityEngine.ParticleSystemModule.dll" Private="false" />
+    <Reference Include="UnityEngine.WindModule" HintPath="$(GameManaged)/UnityEngine.WindModule.dll" Private="false" />
+    <Reference Include="UnityEngine.AnimationModule" HintPath="$(GameManaged)/UnityEngine.AnimationModule.dll" Private="false" />
+    <Reference Include="UnityEngine.AIModule" HintPath="$(GameManaged)/UnityEngine.AIModule.dll" Private="false" />
+    <Reference Include="UnityEngine.TerrainPhysicsModule" HintPath="$(GameManaged)/UnityEngine.TerrainPhysicsModule.dll" Private="false" />
+    <Reference Include="UnityEngine.TerrainModule" HintPath="$(GameManaged)/UnityEngine.TerrainModule.dll" Private="false" />
+    <Reference Include="UnityEngine.AudioModule" HintPath="$(GameManaged)/UnityEngine.AudioModule.dll" Private="false" />
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule" HintPath="$(GameManaged)/UnityEngine.UnityWebRequestAudioModule.dll" Private="false" />
+    <Reference Include="UnityEngine.UnityWebRequestModule" HintPath="$(GameManaged)/UnityEngine.UnityWebRequestModule.dll" Private="false" />
+    <Reference Include="UnityEngine.TextRenderingModule" HintPath="$(GameManaged)/UnityEngine.TextRenderingModule.dll" Private="false" />
+    <Reference Include="UnityEngine.UIModule" HintPath="$(GameManaged)/UnityEngine.UIModule.dll" Private="false" />
+    <Reference Include="UnityEngine.UI" HintPath="$(GameManaged)/UnityEngine.UI.dll" Private="false" />
+    <Reference Include="Unity.TextMeshPro" HintPath="$(GameManaged)/Unity.TextMeshPro.dll" Private="false" />
+    <Reference Include="UnityEngine.ScreenCaptureModule" HintPath="$(GameManaged)/UnityEngine.ScreenCaptureModule.dll" Private="false" />
+    <Reference Include="UnityEngine.ImageConversionModule" HintPath="$(GameManaged)/UnityEngine.ImageConversionModule.dll" Private="false" />
+    <Reference Include="Unity.InputSystem" HintPath="$(GameManaged)/Unity.InputSystem.dll" Private="false" />
+    <Reference Include="Unity.Localization" HintPath="$(GameManaged)/Unity.Localization.dll" Private="false" />
+    <Reference Include="Newtonsoft.Json" HintPath="$(GameManaged)/Newtonsoft.Json.dll" Private="false" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(MonMPDevelopmentTools)' != 'true'">
+    <Compile Remove="Diagnostics/**/*.cs;Testing/**/*.cs;UI/HoldPositionEditor*.cs;UI/HoldPreview*.cs;UI/EmotePoseEditor*.cs;UI/CargoBoundsEditor*.cs;Patches/InteractionAuditPatch.cs" />
+    <Compile Include="Diagnostics/PatchHealth.cs" />
+    <Using Include="MonMP.Plugin.Replication.SceneIdentity" Alias="RuntimeProbe" />
+    <Using Include="MonMP.Plugin.Runtime.UpdateLoop" Alias="UpdateProfiler" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(MonMPLocalTestIsolation)' == 'true' and '$(MonMPDevelopmentTools)' != 'true'">
+    <Compile Include="Testing/LocalTestIsolation.cs" />
+  </ItemGroup>
+  <Target Name="CheckGameReferences" BeforeTargets="ResolveReferences">
+    <Error Condition="!Exists('$(GameManaged)/Assembly-CSharp.dll')" Text="Game assemblies missing. Set -p:GameDirectory=path-to-MonBazou." />
+    <Error Condition="!Exists('$(BepInExDirectory)/BepInEx.dll')" Text="BepInEx references missing. Run scripts/Bootstrap.ps1." />
+  </Target>
+</Project>

@@ -1,0 +1,8 @@
+<Project>
+  <Target Name="CheckAppearanceResources" BeforeTargets="PrepareForBuild">
+    <ItemGroup>
+      <_Portrait Include="$(MSBuildProjectDirectory)/UI/AppearancePortraits/*.png" />
+    </ItemGroup>
+    <Error Condition="'@(_Portrait->Count())' != '628'" Text="Incomplete appearance previews. Run build.cmd with -PreviewSource as described in BUILDING.md." />
+  </Target>
+</Project>

@@ -1,0 +1,6346 @@
+{
+  "schema": 5,
+  "width": 304,
+  "height": 480,
+  "crop": [
+    104,
+    16,
+    408,
+    496
+  ],
+  "keys": [
+    "anthony",
+    "antoine",
+    "bobby",
+    "carole",
+    "chef",
+    "dahves",
+    "default",
+    "eric",
+    "felix",
+    "francis",
+    "gilles",
+    "jacques",
+    "liit",
+    "luc",
+    "martin",
+    "melanie",
+    "michael",
+    "mrbonjour",
+    "normand",
+    "police",
+    "raymond",
+    "richard",
+    "roger",
+    "seb",
+    "tom"
+  ],
+  "headTorsos": [
+    0,
+    4,
+    13,
+    18,
+    20,
+    22,
+    23,
+    24
+  ],
+  "headStyles": [
+    0,
+    7,
+    13,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "artwork": "Locally rendered native Mon Bazou appearance previews. Original game artwork retains its ownership.",
+  "baselineManifestSha256": "3f92b4c2860c06c775d388fa6a5690afd1b69f28f85a7a420e1d1a9976a59e68",
+  "upperManifestSha256": "8fa0af8013ad19806c30c7b0543ad3d6d6df0256ecb3b78e9ca0f2911fd62c6d",
+  "images": [
+    {
+      "file": "default-front-shoes.png",
+      "sha256": "923edcb2fdead40b7dd99abbe3cc4ecfa4dc1cd1e9569c975f127a42aad2b7a6",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "default-front-legs.png",
+      "sha256": "083f7be45b1e1a2fa3be16dde4b066f8a536bd728e3c178c5747cfd3b1d2c039",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "default-back-shoes.png",
+      "sha256": "0717ca60c387829e3392b0847e742081e5b67dca57a7401d12cb7d8b71c5065a",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "default-back-legs.png",
+      "sha256": "b05796a936826159576f97096899dca1bdc6d4418e19427b8b48f2de0a19d3a0",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "francis-front-shoes.png",
+      "sha256": "74d18ff9d36bed0187ef1a56bc76181ca1cfddf1cd4c2d52e6028b2cd936a929",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "francis-front-legs.png",
+      "sha256": "260a86f9d46f72d795fdc30a5909e5aad3a24215d360ba4c336f8cedf921f22a",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "francis-back-shoes.png",
+      "sha256": "4c6f6869b8f021379f1b51d5534c11a4835aac1b607f31f46cfa244d75c90ed7",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "francis-back-legs.png",
+      "sha256": "b7c61860c45ddc95f0c8bc924cc35e392df921538143bcfd4d159ece28ff328f",
+      "bounds": [
+        216,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "anthony-front-shoes.png",
+      "sha256": "088eedcbf8c5f30889c039e7f99c6f8eaac789846b8648a5303bb9d70f81b57f",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "anthony-front-legs.png",
+      "sha256": "083f7be45b1e1a2fa3be16dde4b066f8a536bd728e3c178c5747cfd3b1d2c039",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "anthony-back-shoes.png",
+      "sha256": "c37e9291ec9a21cada356cd97ec21fff504a9bd3967c1de8608c64fbe09ea7c3",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "anthony-back-legs.png",
+      "sha256": "b05796a936826159576f97096899dca1bdc6d4418e19427b8b48f2de0a19d3a0",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "michael-front-shoes.png",
+      "sha256": "923edcb2fdead40b7dd99abbe3cc4ecfa4dc1cd1e9569c975f127a42aad2b7a6",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "michael-front-legs.png",
+      "sha256": "3dfd60a970400326ddb0a3fa709c9e0b4c6dc8bb0c2b32cd54054117af339e28",
+      "bounds": [
+        219,
+        220,
+        292,
+        417
+      ]
+    },
+    {
+      "file": "michael-back-shoes.png",
+      "sha256": "0717ca60c387829e3392b0847e742081e5b67dca57a7401d12cb7d8b71c5065a",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "michael-back-legs.png",
+      "sha256": "917e1eb1ac75f5dbd8ceb1bb7cc2277416f689ae15ca093325a5f9a40b37cbe1",
+      "bounds": [
+        216,
+        213,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "raymond-front-shoes.png",
+      "sha256": "923edcb2fdead40b7dd99abbe3cc4ecfa4dc1cd1e9569c975f127a42aad2b7a6",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "raymond-front-legs.png",
+      "sha256": "083f7be45b1e1a2fa3be16dde4b066f8a536bd728e3c178c5747cfd3b1d2c039",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "raymond-back-shoes.png",
+      "sha256": "0717ca60c387829e3392b0847e742081e5b67dca57a7401d12cb7d8b71c5065a",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "raymond-back-legs.png",
+      "sha256": "b05796a936826159576f97096899dca1bdc6d4418e19427b8b48f2de0a19d3a0",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "felix-front-shoes.png",
+      "sha256": "923edcb2fdead40b7dd99abbe3cc4ecfa4dc1cd1e9569c975f127a42aad2b7a6",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "felix-front-legs.png",
+      "sha256": "083f7be45b1e1a2fa3be16dde4b066f8a536bd728e3c178c5747cfd3b1d2c039",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "felix-back-shoes.png",
+      "sha256": "0717ca60c387829e3392b0847e742081e5b67dca57a7401d12cb7d8b71c5065a",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "felix-back-legs.png",
+      "sha256": "b05796a936826159576f97096899dca1bdc6d4418e19427b8b48f2de0a19d3a0",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "roger-front-shoes.png",
+      "sha256": "dfa0c59d8ad6cd8391c30ee7857a0d61087afcdf00c9080de127ae8d06a60899",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "roger-front-legs.png",
+      "sha256": "260a86f9d46f72d795fdc30a5909e5aad3a24215d360ba4c336f8cedf921f22a",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "roger-back-shoes.png",
+      "sha256": "5f5bb9ae0d5ac99ab442c187c66b1b4b16e816ad8a09ab18e644a11490482422",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "roger-back-legs.png",
+      "sha256": "b7c61860c45ddc95f0c8bc924cc35e392df921538143bcfd4d159ece28ff328f",
+      "bounds": [
+        216,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "jacques-front-shoes.png",
+      "sha256": "088eedcbf8c5f30889c039e7f99c6f8eaac789846b8648a5303bb9d70f81b57f",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "jacques-front-legs.png",
+      "sha256": "083f7be45b1e1a2fa3be16dde4b066f8a536bd728e3c178c5747cfd3b1d2c039",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "jacques-back-shoes.png",
+      "sha256": "c37e9291ec9a21cada356cd97ec21fff504a9bd3967c1de8608c64fbe09ea7c3",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "jacques-back-legs.png",
+      "sha256": "b05796a936826159576f97096899dca1bdc6d4418e19427b8b48f2de0a19d3a0",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "antoine-front-shoes.png",
+      "sha256": "923edcb2fdead40b7dd99abbe3cc4ecfa4dc1cd1e9569c975f127a42aad2b7a6",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "antoine-front-legs.png",
+      "sha256": "90e29dbd259d7b9569c1d35b368a629b865997f291404397dd814c7595dced55",
+      "bounds": [
+        219,
+        220,
+        292,
+        417
+      ]
+    },
+    {
+      "file": "antoine-back-shoes.png",
+      "sha256": "0717ca60c387829e3392b0847e742081e5b67dca57a7401d12cb7d8b71c5065a",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "antoine-back-legs.png",
+      "sha256": "3a655332b91f4373d5727fb8ebe12d837c4bf398a7415037e6a6cbe3bd742681",
+      "bounds": [
+        216,
+        213,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "gilles-front-shoes.png",
+      "sha256": "74d18ff9d36bed0187ef1a56bc76181ca1cfddf1cd4c2d52e6028b2cd936a929",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "gilles-front-legs.png",
+      "sha256": "260a86f9d46f72d795fdc30a5909e5aad3a24215d360ba4c336f8cedf921f22a",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "gilles-back-shoes.png",
+      "sha256": "4c6f6869b8f021379f1b51d5534c11a4835aac1b607f31f46cfa244d75c90ed7",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "gilles-back-legs.png",
+      "sha256": "b7c61860c45ddc95f0c8bc924cc35e392df921538143bcfd4d159ece28ff328f",
+      "bounds": [
+        216,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "eric-front-shoes.png",
+      "sha256": "088eedcbf8c5f30889c039e7f99c6f8eaac789846b8648a5303bb9d70f81b57f",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "eric-front-legs.png",
+      "sha256": "083f7be45b1e1a2fa3be16dde4b066f8a536bd728e3c178c5747cfd3b1d2c039",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "eric-back-shoes.png",
+      "sha256": "c37e9291ec9a21cada356cd97ec21fff504a9bd3967c1de8608c64fbe09ea7c3",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "eric-back-legs.png",
+      "sha256": "b05796a936826159576f97096899dca1bdc6d4418e19427b8b48f2de0a19d3a0",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "normand-front-shoes.png",
+      "sha256": "74d18ff9d36bed0187ef1a56bc76181ca1cfddf1cd4c2d52e6028b2cd936a929",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "normand-front-legs.png",
+      "sha256": "260a86f9d46f72d795fdc30a5909e5aad3a24215d360ba4c336f8cedf921f22a",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "normand-back-shoes.png",
+      "sha256": "4c6f6869b8f021379f1b51d5534c11a4835aac1b607f31f46cfa244d75c90ed7",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "normand-back-legs.png",
+      "sha256": "b7c61860c45ddc95f0c8bc924cc35e392df921538143bcfd4d159ece28ff328f",
+      "bounds": [
+        216,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "mrbonjour-front-shoes.png",
+      "sha256": "088eedcbf8c5f30889c039e7f99c6f8eaac789846b8648a5303bb9d70f81b57f",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "mrbonjour-front-legs.png",
+      "sha256": "5a001b30846d45d63174beb429c67891a9778f7cb8c611b108357cf609372f31",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "mrbonjour-back-shoes.png",
+      "sha256": "c37e9291ec9a21cada356cd97ec21fff504a9bd3967c1de8608c64fbe09ea7c3",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "mrbonjour-back-legs.png",
+      "sha256": "217bc71e8d3872ec5ae7524c047ae868e668a81bb0cfb19f872fe3937a9eefc6",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "melanie-front-shoes.png",
+      "sha256": "88bc6618a6648fe64dfa5f1416e1c955b318c1018a466940694717fd700be427",
+      "bounds": [
+        217,
+        408,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "melanie-front-legs.png",
+      "sha256": "3ce561889dc43f29ee3bf7f4bf960e17bb15b349b7226f85ba04194d32f36224",
+      "bounds": [
+        218,
+        227,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "melanie-back-shoes.png",
+      "sha256": "ecea0b04ea06bcd48f1294f14bc6882f2a2ada72258b31d3c36e96bba68b3dde",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "melanie-back-legs.png",
+      "sha256": "076369f64ab91049e24f93221d36cc7b1579239b820f126bee5421ce0b12d688",
+      "bounds": [
+        215,
+        224,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "richard-front-shoes.png",
+      "sha256": "923edcb2fdead40b7dd99abbe3cc4ecfa4dc1cd1e9569c975f127a42aad2b7a6",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "richard-front-legs.png",
+      "sha256": "5a001b30846d45d63174beb429c67891a9778f7cb8c611b108357cf609372f31",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "richard-back-shoes.png",
+      "sha256": "0717ca60c387829e3392b0847e742081e5b67dca57a7401d12cb7d8b71c5065a",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "richard-back-legs.png",
+      "sha256": "217bc71e8d3872ec5ae7524c047ae868e668a81bb0cfb19f872fe3937a9eefc6",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "martin-front-shoes.png",
+      "sha256": "923edcb2fdead40b7dd99abbe3cc4ecfa4dc1cd1e9569c975f127a42aad2b7a6",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "martin-front-legs.png",
+      "sha256": "3dfd60a970400326ddb0a3fa709c9e0b4c6dc8bb0c2b32cd54054117af339e28",
+      "bounds": [
+        219,
+        220,
+        292,
+        417
+      ]
+    },
+    {
+      "file": "martin-back-shoes.png",
+      "sha256": "0717ca60c387829e3392b0847e742081e5b67dca57a7401d12cb7d8b71c5065a",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "martin-back-legs.png",
+      "sha256": "917e1eb1ac75f5dbd8ceb1bb7cc2277416f689ae15ca093325a5f9a40b37cbe1",
+      "bounds": [
+        216,
+        213,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "tom-front-shoes.png",
+      "sha256": "923edcb2fdead40b7dd99abbe3cc4ecfa4dc1cd1e9569c975f127a42aad2b7a6",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "tom-front-legs.png",
+      "sha256": "083f7be45b1e1a2fa3be16dde4b066f8a536bd728e3c178c5747cfd3b1d2c039",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "tom-back-shoes.png",
+      "sha256": "0717ca60c387829e3392b0847e742081e5b67dca57a7401d12cb7d8b71c5065a",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "tom-back-legs.png",
+      "sha256": "b05796a936826159576f97096899dca1bdc6d4418e19427b8b48f2de0a19d3a0",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "luc-front-shoes.png",
+      "sha256": "923edcb2fdead40b7dd99abbe3cc4ecfa4dc1cd1e9569c975f127a42aad2b7a6",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "luc-front-legs.png",
+      "sha256": "5a001b30846d45d63174beb429c67891a9778f7cb8c611b108357cf609372f31",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "luc-back-shoes.png",
+      "sha256": "0717ca60c387829e3392b0847e742081e5b67dca57a7401d12cb7d8b71c5065a",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "luc-back-legs.png",
+      "sha256": "217bc71e8d3872ec5ae7524c047ae868e668a81bb0cfb19f872fe3937a9eefc6",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "bobby-front-shoes.png",
+      "sha256": "2073b2a08579b05dc1e0a71aa882e9262fa91e709f57509f8e7b41103a1a9007",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "bobby-front-legs.png",
+      "sha256": "083f7be45b1e1a2fa3be16dde4b066f8a536bd728e3c178c5747cfd3b1d2c039",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "bobby-back-shoes.png",
+      "sha256": "bcdea6e5e0dbcb322cb5a7f49fb51da00711185ff4ee6904b9652a8cef8e6b03",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "bobby-back-legs.png",
+      "sha256": "b05796a936826159576f97096899dca1bdc6d4418e19427b8b48f2de0a19d3a0",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "dahves-front-shoes.png",
+      "sha256": "cead9e408114fbb2188dc9f6e03569342ea1346891b7dcc4f26e3d61a1370345",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "dahves-front-legs.png",
+      "sha256": "5a001b30846d45d63174beb429c67891a9778f7cb8c611b108357cf609372f31",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "dahves-back-shoes.png",
+      "sha256": "0717ca60c387829e3392b0847e742081e5b67dca57a7401d12cb7d8b71c5065a",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "dahves-back-legs.png",
+      "sha256": "70eb13efc1f266fb0f2ddcdb787742e5a999998d6cd5856ba0ac5cb5664d98e6",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "liit-front-shoes.png",
+      "sha256": "2073b2a08579b05dc1e0a71aa882e9262fa91e709f57509f8e7b41103a1a9007",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "liit-front-legs.png",
+      "sha256": "74a1b01c295d1d34982adf07266c3cda51bc27c76fa3b5fadfe40f7882877d93",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "liit-back-shoes.png",
+      "sha256": "bcdea6e5e0dbcb322cb5a7f49fb51da00711185ff4ee6904b9652a8cef8e6b03",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "liit-back-legs.png",
+      "sha256": "227c3e06c42c8b4f595395f1c545d50b93b8d3efd54519636f0c06f123d3c6f5",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "seb-front-shoes.png",
+      "sha256": "3cc601b68cfd1116d6d6f6169ff413256fc8c0b2eec859cce380dda5dbaf9fab",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "seb-front-legs.png",
+      "sha256": "33e1d63399e4b5c9bed73739c3ca902de0319c6b4ab0f7a9f33e121af8963468",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "seb-back-shoes.png",
+      "sha256": "4c69d887b1a3277299449d1b514c0a1c4d6729971b6067723c46ee680315f66f",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "seb-back-legs.png",
+      "sha256": "2f3553b152d23f848752914d8545a43d74664ac4d2e51703c782853777d9bd8f",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "chef-front-shoes.png",
+      "sha256": "088eedcbf8c5f30889c039e7f99c6f8eaac789846b8648a5303bb9d70f81b57f",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "chef-front-legs.png",
+      "sha256": "90e29dbd259d7b9569c1d35b368a629b865997f291404397dd814c7595dced55",
+      "bounds": [
+        219,
+        220,
+        292,
+        417
+      ]
+    },
+    {
+      "file": "chef-back-shoes.png",
+      "sha256": "c37e9291ec9a21cada356cd97ec21fff504a9bd3967c1de8608c64fbe09ea7c3",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "chef-back-legs.png",
+      "sha256": "91969108052ff76f226326fe86f521489bdb3ac7c24a907fa1237d13767124d1",
+      "bounds": [
+        216,
+        213,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "police-front-shoes.png",
+      "sha256": "85d3178caeccb78f1d7388b9807f0858e3ed8544c410dced325b0c0b0f4b55fe",
+      "bounds": [
+        217,
+        402,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "police-front-legs.png",
+      "sha256": "40dabba3e82781ad119bb75ce924dc1c0f657b115b577fdf64c97b342571b036",
+      "bounds": [
+        218,
+        220,
+        293,
+        417
+      ]
+    },
+    {
+      "file": "police-back-shoes.png",
+      "sha256": "b50fded88136badf09e87fc582832ca91b74bb5c6aae551933624c1ee7ae18c1",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "police-back-legs.png",
+      "sha256": "d1bab0f48cbf8cd09096e8f589f12ec8281d22010d3cdf83ce3e0bc637d926af",
+      "bounds": [
+        215,
+        214,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "carole-front-shoes.png",
+      "sha256": "88bc6618a6648fe64dfa5f1416e1c955b318c1018a466940694717fd700be427",
+      "bounds": [
+        217,
+        408,
+        300,
+        440
+      ]
+    },
+    {
+      "file": "carole-front-legs.png",
+      "sha256": "2c6b6fd4d69fed489c1afb6656a84e00f2d78416aa79a4deba1307cfa723229d",
+      "bounds": [
+        220,
+        221,
+        291,
+        417
+      ]
+    },
+    {
+      "file": "carole-back-shoes.png",
+      "sha256": "ecea0b04ea06bcd48f1294f14bc6882f2a2ada72258b31d3c36e96bba68b3dde",
+      "bounds": [
+        220,
+        391,
+        305,
+        423
+      ]
+    },
+    {
+      "file": "carole-back-legs.png",
+      "sha256": "12a2a88d260fc8e9f679b58182c4897b9f09a9770ea53a74be31ad3032430fbb",
+      "bounds": [
+        218,
+        224,
+        295,
+        419
+      ]
+    },
+    {
+      "file": "upper-00-00-front-skin.png",
+      "sha256": "eedc3b844b90888009ee5cdeb647d049b720e2c8ccfbaf1e1d9e8d079d2ee78b",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-00-front-fabric.png",
+      "sha256": "9d2aa703a65f96ba106730a3bb63370448b4a4b70dc54ec102a5b8abfedca012",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-00-front-nativefabric.png",
+      "sha256": "a9e149f88d952a875852c70b52b62be4ed5f3d8d8d61719acb5498a6a342f846",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-00-back-skin.png",
+      "sha256": "3e404a795c4bf4862e921bf1c1a7f2138bed44540f592b3af44a2edf9f12fa3f",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-00-back-fabric.png",
+      "sha256": "70be09f90b61c3b39cddd3a43e7bb60a44912c9b1d09f71560fd85552d36ebaf",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-00-back-nativefabric.png",
+      "sha256": "0b30724ab83a839c90abc51a802528bb4cf21426f7d766b0e4d391d74326f9ec",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-07-front-skin.png",
+      "sha256": "32fa01b01a57701ae66c622b934fb39c7aa4d5336624178dec0fe858e6b18a07",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-07-front-fabric.png",
+      "sha256": "9d2aa703a65f96ba106730a3bb63370448b4a4b70dc54ec102a5b8abfedca012",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-07-front-nativefabric.png",
+      "sha256": "a9e149f88d952a875852c70b52b62be4ed5f3d8d8d61719acb5498a6a342f846",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-07-back-skin.png",
+      "sha256": "4e77477015399d9436c1f2efd302af2d540fdb0418c3699d3ff57abe423b2feb",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-07-back-fabric.png",
+      "sha256": "70be09f90b61c3b39cddd3a43e7bb60a44912c9b1d09f71560fd85552d36ebaf",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-07-back-nativefabric.png",
+      "sha256": "0b30724ab83a839c90abc51a802528bb4cf21426f7d766b0e4d391d74326f9ec",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-13-front-skin.png",
+      "sha256": "7e871de4eda76a09c5cf6acde6ced77d9d69717311fe502f94fd17591bef1fcd",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-13-front-fabric.png",
+      "sha256": "258aaab9f4a247e40d71483b501e576fe4735aa4810abd62e5cbe40164098b87",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-13-front-nativefabric.png",
+      "sha256": "a9e149f88d952a875852c70b52b62be4ed5f3d8d8d61719acb5498a6a342f846",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-13-back-skin.png",
+      "sha256": "f8586ff7105b80046c9d57f30b54466c43c2748974f24fe605810f3f81b228d0",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-13-back-fabric.png",
+      "sha256": "e6d5be490d6f748f0c7a3ac4bc3bf61de6f30ed0e4d6045a323bdf3e8c32db9e",
+      "bounds": [
+        99,
+        98,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-13-back-nativefabric.png",
+      "sha256": "2c4b563c980fcd75f05680acab12aff59f82d73923d4a5368e2bacf2697dcb2c",
+      "bounds": [
+        99,
+        98,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-17-front-skin.png",
+      "sha256": "c8f93814c9d1cccad80b4e2648b70533c2cbb61f83230124003ffb43f229738e",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-17-front-fabric.png",
+      "sha256": "9d2aa703a65f96ba106730a3bb63370448b4a4b70dc54ec102a5b8abfedca012",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-17-front-nativefabric.png",
+      "sha256": "a9e149f88d952a875852c70b52b62be4ed5f3d8d8d61719acb5498a6a342f846",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-17-back-skin.png",
+      "sha256": "964700e724c2677a1cb1ae2681951bf3b9ebad5e81d7f953a9ace55d2325a6be",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-17-back-fabric.png",
+      "sha256": "70be09f90b61c3b39cddd3a43e7bb60a44912c9b1d09f71560fd85552d36ebaf",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-17-back-nativefabric.png",
+      "sha256": "0b30724ab83a839c90abc51a802528bb4cf21426f7d766b0e4d391d74326f9ec",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-18-front-skin.png",
+      "sha256": "77cb14d0e761fb173ae93cf2903f96bf41d28bb02b2d9de6f63c698d4e62c1bd",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-18-front-fabric.png",
+      "sha256": "a7ac637a9b1a51cd05869ba938147f93a07a91862922a69870d5f0052d2e00fd",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-18-front-nativefabric.png",
+      "sha256": "56014e89133e439bcf18e3dc07dc5d5131115676092c0d51de3b3bd41d92d371",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-18-back-skin.png",
+      "sha256": "85de6c2aca4f5c55c95c8c8ad60a250e536dd1cf036df4738bc556837919f61f",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-18-back-fabric.png",
+      "sha256": "6959c07ea5aad0b039e04202c57f721c24b92e0ca7330e9b7e15422106644209",
+      "bounds": [
+        99,
+        93,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-18-back-nativefabric.png",
+      "sha256": "94dea4c6d211a0896636782a03682ca55173e51d50f7aceaaf676c12a4906b3a",
+      "bounds": [
+        99,
+        93,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-19-front-skin.png",
+      "sha256": "5ec2a3f66ddb843a564b6b2dccb393ceb9c754f589183cc9c4c14f4d328a0e2e",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-19-front-fabric.png",
+      "sha256": "9d2aa703a65f96ba106730a3bb63370448b4a4b70dc54ec102a5b8abfedca012",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-19-front-nativefabric.png",
+      "sha256": "a9e149f88d952a875852c70b52b62be4ed5f3d8d8d61719acb5498a6a342f846",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-19-back-skin.png",
+      "sha256": "f8f6beff532e9937502d58b060738a1f66000d19448b475daa97417df2203811",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-19-back-fabric.png",
+      "sha256": "70be09f90b61c3b39cddd3a43e7bb60a44912c9b1d09f71560fd85552d36ebaf",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-19-back-nativefabric.png",
+      "sha256": "0b30724ab83a839c90abc51a802528bb4cf21426f7d766b0e4d391d74326f9ec",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-20-front-skin.png",
+      "sha256": "0dd2b6693e96dbb5e6402b5c4ef17f6819bfc6b897abdd420ba71e753228d3a6",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-20-front-fabric.png",
+      "sha256": "9d2aa703a65f96ba106730a3bb63370448b4a4b70dc54ec102a5b8abfedca012",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-20-front-nativefabric.png",
+      "sha256": "a9e149f88d952a875852c70b52b62be4ed5f3d8d8d61719acb5498a6a342f846",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-20-back-skin.png",
+      "sha256": "34e8b6c01bdad0b9b39d700124c1760e3842d96a8ee8dd1432de08cb3579f093",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-20-back-fabric.png",
+      "sha256": "70be09f90b61c3b39cddd3a43e7bb60a44912c9b1d09f71560fd85552d36ebaf",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-20-back-nativefabric.png",
+      "sha256": "0b30724ab83a839c90abc51a802528bb4cf21426f7d766b0e4d391d74326f9ec",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-21-front-skin.png",
+      "sha256": "fccb1e073f8e17b601f181be6a596dd6e46b47db133880e63bd6bc4eeb944754",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-21-front-fabric.png",
+      "sha256": "9d2aa703a65f96ba106730a3bb63370448b4a4b70dc54ec102a5b8abfedca012",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-21-front-nativefabric.png",
+      "sha256": "a9e149f88d952a875852c70b52b62be4ed5f3d8d8d61719acb5498a6a342f846",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-21-back-skin.png",
+      "sha256": "c0c2e1ef32da00de230da30de4ab0073dbe11760e3518a1a5c45a1a1cb72f1b5",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-21-back-fabric.png",
+      "sha256": "70be09f90b61c3b39cddd3a43e7bb60a44912c9b1d09f71560fd85552d36ebaf",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-21-back-nativefabric.png",
+      "sha256": "0b30724ab83a839c90abc51a802528bb4cf21426f7d766b0e4d391d74326f9ec",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-22-front-skin.png",
+      "sha256": "154ab3e91a58f652ab2844df3e1356ab34086131ebfd9a47e765989c39558106",
+      "bounds": [
+        81,
+        41,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-22-front-fabric.png",
+      "sha256": "9d2aa703a65f96ba106730a3bb63370448b4a4b70dc54ec102a5b8abfedca012",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-22-front-nativefabric.png",
+      "sha256": "a9e149f88d952a875852c70b52b62be4ed5f3d8d8d61719acb5498a6a342f846",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-22-back-skin.png",
+      "sha256": "40e2d9469be8dda83cd714ef6493f856212f8e3fc88fcd2bf48793d796de6c37",
+      "bounds": [
+        116,
+        21,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-22-back-fabric.png",
+      "sha256": "70be09f90b61c3b39cddd3a43e7bb60a44912c9b1d09f71560fd85552d36ebaf",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-22-back-nativefabric.png",
+      "sha256": "0b30724ab83a839c90abc51a802528bb4cf21426f7d766b0e4d391d74326f9ec",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-23-front-skin.png",
+      "sha256": "10c2122c3807a4ccce7c042759ebe988decbd4869ebeadb8651fd95cb7021a69",
+      "bounds": [
+        81,
+        43,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-23-front-fabric.png",
+      "sha256": "9d2aa703a65f96ba106730a3bb63370448b4a4b70dc54ec102a5b8abfedca012",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-23-front-nativefabric.png",
+      "sha256": "a9e149f88d952a875852c70b52b62be4ed5f3d8d8d61719acb5498a6a342f846",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-23-back-skin.png",
+      "sha256": "5b48ecb340d7672d59bd785eba08fefc4a6782238e21c75fc721195751fa3ef7",
+      "bounds": [
+        116,
+        27,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-23-back-fabric.png",
+      "sha256": "70be09f90b61c3b39cddd3a43e7bb60a44912c9b1d09f71560fd85552d36ebaf",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-23-back-nativefabric.png",
+      "sha256": "0b30724ab83a839c90abc51a802528bb4cf21426f7d766b0e4d391d74326f9ec",
+      "bounds": [
+        99,
+        91,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-24-front-skin.png",
+      "sha256": "fad0b6a6f9d49f30759a9ecea1f41ab1a3ac5937eb1465a3cddf8bf8c75b031d",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-00-24-front-fabric.png",
+      "sha256": "258aaab9f4a247e40d71483b501e576fe4735aa4810abd62e5cbe40164098b87",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-24-front-nativefabric.png",
+      "sha256": "a9e149f88d952a875852c70b52b62be4ed5f3d8d8d61719acb5498a6a342f846",
+      "bounds": [
+        95,
+        103,
+        218,
+        232
+      ]
+    },
+    {
+      "file": "upper-00-24-back-skin.png",
+      "sha256": "767ae7891f4d1ce55d1f204ee7a5a57b088c049f3b961ff3c5e65195759379d6",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-00-24-back-fabric.png",
+      "sha256": "e6d5be490d6f748f0c7a3ac4bc3bf61de6f30ed0e4d6045a323bdf3e8c32db9e",
+      "bounds": [
+        99,
+        98,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-00-24-back-nativefabric.png",
+      "sha256": "2c4b563c980fcd75f05680acab12aff59f82d73923d4a5368e2bacf2697dcb2c",
+      "bounds": [
+        99,
+        98,
+        229,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-00-front-skin.png",
+      "sha256": "2f7b5d495e2cadc09e3081c2c70f967a8a50b17cf46854f26b55d9b17e6518a6",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-00-front-fabric.png",
+      "sha256": "3d8e907c2b5b721a931045d90ab7fc146d7a908b36bd24addeb7afa60e02a3b7",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-00-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-00-back-skin.png",
+      "sha256": "7bf9662f34dc6cfa41bc577a259e778f2f90ebc624243608cddc4971de7e3d5d",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-00-back-fabric.png",
+      "sha256": "be21d30dad2efc9da1afa69779602a5b580ee024efbed3b88e062440bf3514dd",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-00-back-nativefabric.png",
+      "sha256": "6776c2c95e5065dc8d5146bdd8d866b7e89aee147b0809e5ceada450171dc6ce",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-07-front-skin.png",
+      "sha256": "5a5f7e1ea998e2cea2ff0f6c5fe6fee0af7871ea307dcab0730c8c813abf7334",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-07-front-fabric.png",
+      "sha256": "3d8e907c2b5b721a931045d90ab7fc146d7a908b36bd24addeb7afa60e02a3b7",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-07-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-07-back-skin.png",
+      "sha256": "e4453902c928d9f3e9b70e1daae01b31bd9a7e457745e47e9643970c9cedc003",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-07-back-fabric.png",
+      "sha256": "be21d30dad2efc9da1afa69779602a5b580ee024efbed3b88e062440bf3514dd",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-07-back-nativefabric.png",
+      "sha256": "6776c2c95e5065dc8d5146bdd8d866b7e89aee147b0809e5ceada450171dc6ce",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-13-front-skin.png",
+      "sha256": "228249b0eb9197f0e9a253127225c399a6ac55f8e6984e0737e5ead9506efbd5",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-13-front-fabric.png",
+      "sha256": "34231412c8dfb511ee76e4eeb5ca3da6bc8f9541fd5f7ef64ea8a62005439128",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-13-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-13-back-skin.png",
+      "sha256": "36b393f93e01050985318ec73d8c16b72229cdbb076b27e4f8adcf9e88d34482",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-13-back-fabric.png",
+      "sha256": "a026c812adceb0cbca25116aa72ab37f550b2f89f6de432cb8f0acc5da9ee6eb",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-13-back-nativefabric.png",
+      "sha256": "aaa0c4664c613f0d00a47dc41032bfaf45c83b9de8ed97feca38798d8f275621",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-17-front-skin.png",
+      "sha256": "160c7782a8da0badb5baae2b7a4a0a1bd0252d3a215655c175f24fd931471e52",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-17-front-fabric.png",
+      "sha256": "3d8e907c2b5b721a931045d90ab7fc146d7a908b36bd24addeb7afa60e02a3b7",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-17-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-17-back-skin.png",
+      "sha256": "166bdf879be3caab579012cb7021675c74ba6abb59c07de8e50e449592aa67b7",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-17-back-fabric.png",
+      "sha256": "be21d30dad2efc9da1afa69779602a5b580ee024efbed3b88e062440bf3514dd",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-17-back-nativefabric.png",
+      "sha256": "6776c2c95e5065dc8d5146bdd8d866b7e89aee147b0809e5ceada450171dc6ce",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-18-front-skin.png",
+      "sha256": "c791e8f4d63284fba5c0d973d0883d75f5af1436f934d496d41581396ad6a751",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-18-front-fabric.png",
+      "sha256": "41f45cd7300161aef89c475caa24e04e2321df7fcdb28d13d90eed86b2cb98e4",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-18-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-18-back-skin.png",
+      "sha256": "ddb40a93740243b1d9c7389cd7001e6cbd0dafedb69a0560f7e185c03b5dd03d",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-18-back-fabric.png",
+      "sha256": "eddfb06dd7459ceee1a56053af7998dba108721c8c4b09abce63e6faf8486431",
+      "bounds": [
+        99,
+        93,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-18-back-nativefabric.png",
+      "sha256": "800fd09208af3fd1c7b2a952e453b0b6fb794ef5126535534904517b6361e0dd",
+      "bounds": [
+        99,
+        93,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-19-front-skin.png",
+      "sha256": "d7f15d6ae2f2071900d268ad76ae5190249872dd0e93034c6648536cff11877a",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-19-front-fabric.png",
+      "sha256": "3d8e907c2b5b721a931045d90ab7fc146d7a908b36bd24addeb7afa60e02a3b7",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-19-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-19-back-skin.png",
+      "sha256": "bbd3a04309620042b8700f97a95135e8e9a46c5c96760fb3fe5d089ac5e3ff1f",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-19-back-fabric.png",
+      "sha256": "be21d30dad2efc9da1afa69779602a5b580ee024efbed3b88e062440bf3514dd",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-19-back-nativefabric.png",
+      "sha256": "6776c2c95e5065dc8d5146bdd8d866b7e89aee147b0809e5ceada450171dc6ce",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-20-front-skin.png",
+      "sha256": "3589f4129dcf8546c4225b280e52b4927e41673df6fd47bbb9ab7924f1eaf3f9",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-20-front-fabric.png",
+      "sha256": "3d8e907c2b5b721a931045d90ab7fc146d7a908b36bd24addeb7afa60e02a3b7",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-20-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-20-back-skin.png",
+      "sha256": "7d8d1079f76a5d1bc9920d46d5c90df2529157e31d508da8a799f8b593bfe7f4",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-20-back-fabric.png",
+      "sha256": "be21d30dad2efc9da1afa69779602a5b580ee024efbed3b88e062440bf3514dd",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-20-back-nativefabric.png",
+      "sha256": "6776c2c95e5065dc8d5146bdd8d866b7e89aee147b0809e5ceada450171dc6ce",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-21-front-skin.png",
+      "sha256": "b2866accf8e0962f27aff91cda5ea29887573ee22d74c8076945db4635f61327",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-21-front-fabric.png",
+      "sha256": "3d8e907c2b5b721a931045d90ab7fc146d7a908b36bd24addeb7afa60e02a3b7",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-21-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-21-back-skin.png",
+      "sha256": "2ba54706a070bb233204d122b84ce5cb1e3365b7a53cec56bcbaac204dfa1232",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-21-back-fabric.png",
+      "sha256": "be21d30dad2efc9da1afa69779602a5b580ee024efbed3b88e062440bf3514dd",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-21-back-nativefabric.png",
+      "sha256": "6776c2c95e5065dc8d5146bdd8d866b7e89aee147b0809e5ceada450171dc6ce",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-22-front-skin.png",
+      "sha256": "cef0c9d33f99b7c089c4a8c35b38e0b22c803b2ffb9c24cf0854b30dde6c2f40",
+      "bounds": [
+        81,
+        41,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-22-front-fabric.png",
+      "sha256": "3d8e907c2b5b721a931045d90ab7fc146d7a908b36bd24addeb7afa60e02a3b7",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-22-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-22-back-skin.png",
+      "sha256": "306e40fc6008202663fb537193668fd78ed2f0ec28357c4fff8cbc12beb925f6",
+      "bounds": [
+        104,
+        21,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-22-back-fabric.png",
+      "sha256": "be21d30dad2efc9da1afa69779602a5b580ee024efbed3b88e062440bf3514dd",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-22-back-nativefabric.png",
+      "sha256": "6776c2c95e5065dc8d5146bdd8d866b7e89aee147b0809e5ceada450171dc6ce",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-23-front-skin.png",
+      "sha256": "7b9ebee115156f4c26907ff853627580418ffcbd3afa780846b19825858c1cc6",
+      "bounds": [
+        81,
+        43,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-23-front-fabric.png",
+      "sha256": "3d8e907c2b5b721a931045d90ab7fc146d7a908b36bd24addeb7afa60e02a3b7",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-23-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-23-back-skin.png",
+      "sha256": "60feafc5c4f1b8041234f7407b50d749653dc45edb59b2d2e41203c1025f6252",
+      "bounds": [
+        104,
+        27,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-23-back-fabric.png",
+      "sha256": "be21d30dad2efc9da1afa69779602a5b580ee024efbed3b88e062440bf3514dd",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-23-back-nativefabric.png",
+      "sha256": "6776c2c95e5065dc8d5146bdd8d866b7e89aee147b0809e5ceada450171dc6ce",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-24-front-skin.png",
+      "sha256": "67ced9d4b5b151b261f6360e42c8cf3ec4e4a932b21e3f5a752dd349a8837b76",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-04-24-front-fabric.png",
+      "sha256": "34231412c8dfb511ee76e4eeb5ca3da6bc8f9541fd5f7ef64ea8a62005439128",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-24-front-nativefabric.png",
+      "sha256": "671fb2055c00fbe6e5f225b8a6992b6444c1fa811a2cace94730326db43fad05",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-04-24-back-skin.png",
+      "sha256": "51e1e1f19d945abf145f4a07b63731e9801bfceb4dfe7ce9e2f473b471f2b845",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-04-24-back-fabric.png",
+      "sha256": "a026c812adceb0cbca25116aa72ab37f550b2f89f6de432cb8f0acc5da9ee6eb",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-04-24-back-nativefabric.png",
+      "sha256": "aaa0c4664c613f0d00a47dc41032bfaf45c83b9de8ed97feca38798d8f275621",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-13-00-front-skin.png",
+      "sha256": "df34613394caa8d196477bb6aa51feddc4658fc2577f5b131816247cd1ebd350",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-00-front-fabric.png",
+      "sha256": "453fd31f89354328c18f23aac3ecb721947ce8ac35d43df3771626d921736375",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-00-front-nativefabric.png",
+      "sha256": "bf3622b264e3f58a0e8321ba350d5b43c5edbc98fcce8d2a4956e49671e81ae6",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-00-back-skin.png",
+      "sha256": "7353942efe98ebd730efdd3490c6d0f2be72a406e02ac53497ace764bb2290cd",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-00-back-fabric.png",
+      "sha256": "050d92d83fe6d60011a51120c561998c4b93c57a8698b1efcb2c15a58329639a",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-00-back-nativefabric.png",
+      "sha256": "3e1add11a9e9af06ae07ba0d0010cb3f5af0431f1cac95f664e7c133041e7d20",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-07-front-skin.png",
+      "sha256": "6813a75d61688523eeaf55266f4759b7d0f3036c60cc527f8e60f6aa7089c850",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-07-front-fabric.png",
+      "sha256": "453fd31f89354328c18f23aac3ecb721947ce8ac35d43df3771626d921736375",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-07-front-nativefabric.png",
+      "sha256": "bf3622b264e3f58a0e8321ba350d5b43c5edbc98fcce8d2a4956e49671e81ae6",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-07-back-skin.png",
+      "sha256": "a431818c49a2df1bb65695e896c298505733bf7e5b1b0e80bf151b088587ec34",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-07-back-fabric.png",
+      "sha256": "050d92d83fe6d60011a51120c561998c4b93c57a8698b1efcb2c15a58329639a",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-07-back-nativefabric.png",
+      "sha256": "3e1add11a9e9af06ae07ba0d0010cb3f5af0431f1cac95f664e7c133041e7d20",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-13-front-skin.png",
+      "sha256": "76f8ec745cdd9947acf3eeebf6c5a01d1814f32b17009bb890e8427707f15236",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-13-front-fabric.png",
+      "sha256": "6ef4ef4ef6c40aaee6b59a36eb3602608abb3ef9e82a26ec41666b4ef8de7d46",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-13-front-nativefabric.png",
+      "sha256": "c4440e7ad519f7f4556db218a07be3977076ed6a8bcc88d33a7ae19af464ba62",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-13-back-skin.png",
+      "sha256": "f85904df53e44a0b267172e2b2915eabf462907f915bcad0cabca807dae8fa68",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-13-back-fabric.png",
+      "sha256": "a486b44cd4ad2b45102286b09d333bfe5941546952a6fa8b228a6bcdd558238b",
+      "bounds": [
+        103,
+        98,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-13-back-nativefabric.png",
+      "sha256": "351de1cc53b430f593cffe5630c6c74913429ff08d67351bc6834a658da59c36",
+      "bounds": [
+        103,
+        98,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-17-front-skin.png",
+      "sha256": "299fa01eeccf4c9d4c39e0ab6cb88c0cc2fc287ad761a72d46a29fb1e04fb3e9",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-17-front-fabric.png",
+      "sha256": "453fd31f89354328c18f23aac3ecb721947ce8ac35d43df3771626d921736375",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-17-front-nativefabric.png",
+      "sha256": "bf3622b264e3f58a0e8321ba350d5b43c5edbc98fcce8d2a4956e49671e81ae6",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-17-back-skin.png",
+      "sha256": "afd467018af1224ce4e1f78aa67c6ee6983e6c96684a29f29b6d6947cc88ef87",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-17-back-fabric.png",
+      "sha256": "050d92d83fe6d60011a51120c561998c4b93c57a8698b1efcb2c15a58329639a",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-17-back-nativefabric.png",
+      "sha256": "3e1add11a9e9af06ae07ba0d0010cb3f5af0431f1cac95f664e7c133041e7d20",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-18-front-skin.png",
+      "sha256": "a42631b447e1b90ecf4325bcd859e792414e4090cc3474484e3015007f43f840",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-18-front-fabric.png",
+      "sha256": "d546218441f17241c791e8a541c4933614a00edf4ea568172679b4231de5b618",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-18-front-nativefabric.png",
+      "sha256": "de005458d6112a1aaaa84bb10cb4e849324adc80f739cffe3b038efd1c4cc056",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-18-back-skin.png",
+      "sha256": "49c7a11f54a30d6429c0d196e3e758d9df5577d0aaa591222cc95b94381013bb",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-18-back-fabric.png",
+      "sha256": "fe855b0e415dc2778e5aebd86330ea4e6587437047ea47e187652580d24225f4",
+      "bounds": [
+        103,
+        93,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-18-back-nativefabric.png",
+      "sha256": "0cac90a3824837a6e64fb7cddf9180715f4dff4cf0d0dcf420105414c769bc2e",
+      "bounds": [
+        103,
+        93,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-19-front-skin.png",
+      "sha256": "bae8a462e5b4c8a5d5f40067d6e768dec98fd370b4f07c2b27b730780260b13c",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-19-front-fabric.png",
+      "sha256": "453fd31f89354328c18f23aac3ecb721947ce8ac35d43df3771626d921736375",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-19-front-nativefabric.png",
+      "sha256": "bf3622b264e3f58a0e8321ba350d5b43c5edbc98fcce8d2a4956e49671e81ae6",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-19-back-skin.png",
+      "sha256": "92358c7dd3ce0b5cfef0a25438a9122559717a24e1b9102eb17ca0087f5e37d7",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-19-back-fabric.png",
+      "sha256": "050d92d83fe6d60011a51120c561998c4b93c57a8698b1efcb2c15a58329639a",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-19-back-nativefabric.png",
+      "sha256": "3e1add11a9e9af06ae07ba0d0010cb3f5af0431f1cac95f664e7c133041e7d20",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-20-front-skin.png",
+      "sha256": "e5e234ae1b3846f06b30907560e3ecc34f0341d5bc6545d5af993bdd86c30d90",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-20-front-fabric.png",
+      "sha256": "453fd31f89354328c18f23aac3ecb721947ce8ac35d43df3771626d921736375",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-20-front-nativefabric.png",
+      "sha256": "bf3622b264e3f58a0e8321ba350d5b43c5edbc98fcce8d2a4956e49671e81ae6",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-20-back-skin.png",
+      "sha256": "3f01a878bf31f82226bbc3f8a7fe8cfda1ae9a9583c14254c7f2a5b658b76371",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-20-back-fabric.png",
+      "sha256": "050d92d83fe6d60011a51120c561998c4b93c57a8698b1efcb2c15a58329639a",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-20-back-nativefabric.png",
+      "sha256": "3e1add11a9e9af06ae07ba0d0010cb3f5af0431f1cac95f664e7c133041e7d20",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-21-front-skin.png",
+      "sha256": "dc24ff54a9350b6c4cd546a88aeb5652ff531b5ef690ae98f9107c7d10800822",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-21-front-fabric.png",
+      "sha256": "453fd31f89354328c18f23aac3ecb721947ce8ac35d43df3771626d921736375",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-21-front-nativefabric.png",
+      "sha256": "bf3622b264e3f58a0e8321ba350d5b43c5edbc98fcce8d2a4956e49671e81ae6",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-21-back-skin.png",
+      "sha256": "826ae0e91cefa3a9e6d9a7e58c28e4ac7292b6fc9c031a0e9b86f4b49b229e3b",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-21-back-fabric.png",
+      "sha256": "050d92d83fe6d60011a51120c561998c4b93c57a8698b1efcb2c15a58329639a",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-21-back-nativefabric.png",
+      "sha256": "3e1add11a9e9af06ae07ba0d0010cb3f5af0431f1cac95f664e7c133041e7d20",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-22-front-skin.png",
+      "sha256": "dd8c96f1c1b132717136d7567570813fe9c9a4f352d591925ab8b4ba956987ff",
+      "bounds": [
+        87,
+        41,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-22-front-fabric.png",
+      "sha256": "453fd31f89354328c18f23aac3ecb721947ce8ac35d43df3771626d921736375",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-22-front-nativefabric.png",
+      "sha256": "bf3622b264e3f58a0e8321ba350d5b43c5edbc98fcce8d2a4956e49671e81ae6",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-22-back-skin.png",
+      "sha256": "e648eb2de2c1fd4a05712bfe10a2717176b92677f950284d4290c78350503935",
+      "bounds": [
+        108,
+        21,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-22-back-fabric.png",
+      "sha256": "050d92d83fe6d60011a51120c561998c4b93c57a8698b1efcb2c15a58329639a",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-22-back-nativefabric.png",
+      "sha256": "3e1add11a9e9af06ae07ba0d0010cb3f5af0431f1cac95f664e7c133041e7d20",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-23-front-skin.png",
+      "sha256": "3c8e43c07aa6339aa18e8b7df971be452d1555b63a6174fb5a44ea34bdcbfac2",
+      "bounds": [
+        87,
+        43,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-23-front-fabric.png",
+      "sha256": "453fd31f89354328c18f23aac3ecb721947ce8ac35d43df3771626d921736375",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-23-front-nativefabric.png",
+      "sha256": "bf3622b264e3f58a0e8321ba350d5b43c5edbc98fcce8d2a4956e49671e81ae6",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-23-back-skin.png",
+      "sha256": "c229f31429b2bbf865d56e51520cf2dc7acfffac6fdb13f029696f057404cbc3",
+      "bounds": [
+        108,
+        27,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-23-back-fabric.png",
+      "sha256": "050d92d83fe6d60011a51120c561998c4b93c57a8698b1efcb2c15a58329639a",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-23-back-nativefabric.png",
+      "sha256": "3e1add11a9e9af06ae07ba0d0010cb3f5af0431f1cac95f664e7c133041e7d20",
+      "bounds": [
+        103,
+        91,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-24-front-skin.png",
+      "sha256": "6e527b420f24acbf2dd1577e0fbe8e99f1c1d02edd0becc85dfb3c20eac20d69",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-24-front-fabric.png",
+      "sha256": "6ef4ef4ef6c40aaee6b59a36eb3602608abb3ef9e82a26ec41666b4ef8de7d46",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-24-front-nativefabric.png",
+      "sha256": "c4440e7ad519f7f4556db218a07be3977076ed6a8bcc88d33a7ae19af464ba62",
+      "bounds": [
+        103,
+        103,
+        202,
+        240
+      ]
+    },
+    {
+      "file": "upper-13-24-back-skin.png",
+      "sha256": "d574ed171c215535075b17ac7c94613b22920ee654bc456355532c55309a0ad8",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-13-24-back-fabric.png",
+      "sha256": "a486b44cd4ad2b45102286b09d333bfe5941546952a6fa8b228a6bcdd558238b",
+      "bounds": [
+        103,
+        98,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-13-24-back-nativefabric.png",
+      "sha256": "351de1cc53b430f593cffe5630c6c74913429ff08d67351bc6834a658da59c36",
+      "bounds": [
+        103,
+        98,
+        209,
+        251
+      ]
+    },
+    {
+      "file": "upper-18-00-front-skin.png",
+      "sha256": "e9073c333a680d4b22a0a28ca6596c62988b8c8f65b24b0c8b44e472256702bd",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-00-front-fabric.png",
+      "sha256": "6ff4c984d6b79bf023e8121b436ce37b8409947bf02fde0f400299cd94957499",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-00-front-nativefabric.png",
+      "sha256": "c8b1a39ff2080374f2e4efd378a0085a16d64fdf580f9cc9a7f115d51939e51b",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-00-back-skin.png",
+      "sha256": "7bf9662f34dc6cfa41bc577a259e778f2f90ebc624243608cddc4971de7e3d5d",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-00-back-fabric.png",
+      "sha256": "f1c91f65c75778358777747de8f13132ef1b4a550fa51f813cc639642c8a9279",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-00-back-nativefabric.png",
+      "sha256": "d852323c0ac0c27f9bf919ea570585313206f88199c44b17e020ac0ae1152645",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-07-front-skin.png",
+      "sha256": "89f541fbfd438ada18ee07e52e7a3dd83b831ebcd66eebb85c8019538e2a69db",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-07-front-fabric.png",
+      "sha256": "6ff4c984d6b79bf023e8121b436ce37b8409947bf02fde0f400299cd94957499",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-07-front-nativefabric.png",
+      "sha256": "c8b1a39ff2080374f2e4efd378a0085a16d64fdf580f9cc9a7f115d51939e51b",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-07-back-skin.png",
+      "sha256": "e4453902c928d9f3e9b70e1daae01b31bd9a7e457745e47e9643970c9cedc003",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-07-back-fabric.png",
+      "sha256": "f1c91f65c75778358777747de8f13132ef1b4a550fa51f813cc639642c8a9279",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-07-back-nativefabric.png",
+      "sha256": "d852323c0ac0c27f9bf919ea570585313206f88199c44b17e020ac0ae1152645",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-13-front-skin.png",
+      "sha256": "956afb364edbef7c8cd0723ea60ace444462be9cd4d6869ea0bdc30a735cdd2a",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-13-front-fabric.png",
+      "sha256": "e834adc6a2e55ac485a5d76277d8b5e12e154f1338240d83160641f9a9fe9047",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-13-front-nativefabric.png",
+      "sha256": "a3dce145eca4fe07fe3b52da2eba0043531610572b08e88c9e9efb1173b1a031",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-13-back-skin.png",
+      "sha256": "36b393f93e01050985318ec73d8c16b72229cdbb076b27e4f8adcf9e88d34482",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-13-back-fabric.png",
+      "sha256": "f532b546df5643cb75ea4fc8236af786c3b670c45792c7600800f199065881a7",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-13-back-nativefabric.png",
+      "sha256": "f2691f01719bcdea67d694d1a2c6d13fff1086a6997bd9b206b68aa8de5add0e",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-17-front-skin.png",
+      "sha256": "25fd69f024842549de53de74cd03d792a50c8460c714778a6fd86f159ced8697",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-17-front-fabric.png",
+      "sha256": "6ff4c984d6b79bf023e8121b436ce37b8409947bf02fde0f400299cd94957499",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-17-front-nativefabric.png",
+      "sha256": "c8b1a39ff2080374f2e4efd378a0085a16d64fdf580f9cc9a7f115d51939e51b",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-17-back-skin.png",
+      "sha256": "166bdf879be3caab579012cb7021675c74ba6abb59c07de8e50e449592aa67b7",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-17-back-fabric.png",
+      "sha256": "f1c91f65c75778358777747de8f13132ef1b4a550fa51f813cc639642c8a9279",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-17-back-nativefabric.png",
+      "sha256": "d852323c0ac0c27f9bf919ea570585313206f88199c44b17e020ac0ae1152645",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-18-front-skin.png",
+      "sha256": "90840046e7cb3ddeecae2022ac9518221c244de49a373788782f74f1a0936413",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-18-front-fabric.png",
+      "sha256": "f7eb6a4218f4c9aaf9c7b156367f74f899ca1bb764f009c0051aa91f10ee62e1",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-18-front-nativefabric.png",
+      "sha256": "8397deda97accb2844231d33cac6622105d99877c3b4cd7121c6889f604b7467",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-18-back-skin.png",
+      "sha256": "ddb40a93740243b1d9c7389cd7001e6cbd0dafedb69a0560f7e185c03b5dd03d",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-18-back-fabric.png",
+      "sha256": "d6283702dcb0072572865f723fcec301cc7ffc906fb304f3ae4a4af0f89d55c9",
+      "bounds": [
+        99,
+        93,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-18-back-nativefabric.png",
+      "sha256": "c4115dfb3a5d91d593644ed482c63654dc0a89c605442defceb8ca97be1f6a20",
+      "bounds": [
+        99,
+        93,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-19-front-skin.png",
+      "sha256": "db591fd19cd8d05d3208c77d0235dfe0dd58788dd1494b558e377336011a5bee",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-19-front-fabric.png",
+      "sha256": "6ff4c984d6b79bf023e8121b436ce37b8409947bf02fde0f400299cd94957499",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-19-front-nativefabric.png",
+      "sha256": "c8b1a39ff2080374f2e4efd378a0085a16d64fdf580f9cc9a7f115d51939e51b",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-19-back-skin.png",
+      "sha256": "bbd3a04309620042b8700f97a95135e8e9a46c5c96760fb3fe5d089ac5e3ff1f",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-19-back-fabric.png",
+      "sha256": "f1c91f65c75778358777747de8f13132ef1b4a550fa51f813cc639642c8a9279",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-19-back-nativefabric.png",
+      "sha256": "d852323c0ac0c27f9bf919ea570585313206f88199c44b17e020ac0ae1152645",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-20-front-skin.png",
+      "sha256": "96dfbd562ad175da28c8bd46a5b16599d154290319cd163aea04cd69e51626be",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-20-front-fabric.png",
+      "sha256": "6ff4c984d6b79bf023e8121b436ce37b8409947bf02fde0f400299cd94957499",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-20-front-nativefabric.png",
+      "sha256": "c8b1a39ff2080374f2e4efd378a0085a16d64fdf580f9cc9a7f115d51939e51b",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-20-back-skin.png",
+      "sha256": "7d8d1079f76a5d1bc9920d46d5c90df2529157e31d508da8a799f8b593bfe7f4",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-20-back-fabric.png",
+      "sha256": "f1c91f65c75778358777747de8f13132ef1b4a550fa51f813cc639642c8a9279",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-20-back-nativefabric.png",
+      "sha256": "d852323c0ac0c27f9bf919ea570585313206f88199c44b17e020ac0ae1152645",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-21-front-skin.png",
+      "sha256": "39b9c9b8e66fd04b855ba5cceb6dd51a70d8e19122522e112f8934c105672d79",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-21-front-fabric.png",
+      "sha256": "6ff4c984d6b79bf023e8121b436ce37b8409947bf02fde0f400299cd94957499",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-21-front-nativefabric.png",
+      "sha256": "c8b1a39ff2080374f2e4efd378a0085a16d64fdf580f9cc9a7f115d51939e51b",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-21-back-skin.png",
+      "sha256": "2ba54706a070bb233204d122b84ce5cb1e3365b7a53cec56bcbaac204dfa1232",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-21-back-fabric.png",
+      "sha256": "f1c91f65c75778358777747de8f13132ef1b4a550fa51f813cc639642c8a9279",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-21-back-nativefabric.png",
+      "sha256": "d852323c0ac0c27f9bf919ea570585313206f88199c44b17e020ac0ae1152645",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-22-front-skin.png",
+      "sha256": "059e6a72e92d47f2c138c5c6aca7638892793d414fa1b7caf7b3ee3ee5b301bb",
+      "bounds": [
+        81,
+        41,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-22-front-fabric.png",
+      "sha256": "6ff4c984d6b79bf023e8121b436ce37b8409947bf02fde0f400299cd94957499",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-22-front-nativefabric.png",
+      "sha256": "c8b1a39ff2080374f2e4efd378a0085a16d64fdf580f9cc9a7f115d51939e51b",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-22-back-skin.png",
+      "sha256": "306e40fc6008202663fb537193668fd78ed2f0ec28357c4fff8cbc12beb925f6",
+      "bounds": [
+        104,
+        21,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-22-back-fabric.png",
+      "sha256": "f1c91f65c75778358777747de8f13132ef1b4a550fa51f813cc639642c8a9279",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-22-back-nativefabric.png",
+      "sha256": "d852323c0ac0c27f9bf919ea570585313206f88199c44b17e020ac0ae1152645",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-23-front-skin.png",
+      "sha256": "2a8457dbdfd11e82dcfced619f11375d431c3fa15cc1f45d18a1d2d6cef1b50f",
+      "bounds": [
+        81,
+        43,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-23-front-fabric.png",
+      "sha256": "6ff4c984d6b79bf023e8121b436ce37b8409947bf02fde0f400299cd94957499",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-23-front-nativefabric.png",
+      "sha256": "c8b1a39ff2080374f2e4efd378a0085a16d64fdf580f9cc9a7f115d51939e51b",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-23-back-skin.png",
+      "sha256": "60feafc5c4f1b8041234f7407b50d749653dc45edb59b2d2e41203c1025f6252",
+      "bounds": [
+        104,
+        27,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-23-back-fabric.png",
+      "sha256": "f1c91f65c75778358777747de8f13132ef1b4a550fa51f813cc639642c8a9279",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-23-back-nativefabric.png",
+      "sha256": "d852323c0ac0c27f9bf919ea570585313206f88199c44b17e020ac0ae1152645",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-24-front-skin.png",
+      "sha256": "3161da6c0162c71837e71a097067c8750e0d0e54c9b34f96705ab4060f64af6d",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-18-24-front-fabric.png",
+      "sha256": "e834adc6a2e55ac485a5d76277d8b5e12e154f1338240d83160641f9a9fe9047",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-24-front-nativefabric.png",
+      "sha256": "a3dce145eca4fe07fe3b52da2eba0043531610572b08e88c9e9efb1173b1a031",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-18-24-back-skin.png",
+      "sha256": "51e1e1f19d945abf145f4a07b63731e9801bfceb4dfe7ce9e2f473b471f2b845",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-18-24-back-fabric.png",
+      "sha256": "f532b546df5643cb75ea4fc8236af786c3b670c45792c7600800f199065881a7",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-18-24-back-nativefabric.png",
+      "sha256": "f2691f01719bcdea67d694d1a2c6d13fff1086a6997bd9b206b68aa8de5add0e",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-20-00-front-skin.png",
+      "sha256": "673b6e9deb7f6c2dc1481ae8cc8200daf3430ebbc7802ce0a1e167046dec25fe",
+      "bounds": [
+        81,
+        52,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-00-front-fabric.png",
+      "sha256": "9c1006f451f5eeb27e0c29717ca36a3e50a17becf3e04e74a3f26f1285960d61",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-00-front-nativefabric.png",
+      "sha256": "0e77372a246c8c1f3b266b2dd046dd327078541b1639c0dfdc7680a7830f40fd",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-00-back-skin.png",
+      "sha256": "3249347f1de2055b2a39942cacf0a31258e4f5e09e8f915695ab6d277c88725d",
+      "bounds": [
+        105,
+        64,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-00-back-fabric.png",
+      "sha256": "1508f0285c2ca324630f2c1637d5734f04c6b8c6485fa1bc88a42144fe32d3a7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-00-back-nativefabric.png",
+      "sha256": "6dadda0766133676d438ef394cc23070d979b96de9974c4fd6398694e5ffd2e7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-07-front-skin.png",
+      "sha256": "ea90f6d49a9346a479e1d0307fb252292de5154ffa84c3b9f9305fbf1921bc54",
+      "bounds": [
+        81,
+        52,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-07-front-fabric.png",
+      "sha256": "9c1006f451f5eeb27e0c29717ca36a3e50a17becf3e04e74a3f26f1285960d61",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-07-front-nativefabric.png",
+      "sha256": "0e77372a246c8c1f3b266b2dd046dd327078541b1639c0dfdc7680a7830f40fd",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-07-back-skin.png",
+      "sha256": "57d30e3eb2e9fe6e7db65be86226941db35b7a549961c23f107f9975013f54c4",
+      "bounds": [
+        105,
+        64,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-07-back-fabric.png",
+      "sha256": "1508f0285c2ca324630f2c1637d5734f04c6b8c6485fa1bc88a42144fe32d3a7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-07-back-nativefabric.png",
+      "sha256": "6dadda0766133676d438ef394cc23070d979b96de9974c4fd6398694e5ffd2e7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-13-front-skin.png",
+      "sha256": "b330e0f46264ab773d77e8c8d7931ddb2876e8c4738c96e0cb527322bb3569fc",
+      "bounds": [
+        81,
+        52,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-13-front-fabric.png",
+      "sha256": "f47da1d93ea08037f0b8b862f9ea8f936fa050253cea286f896db33488cde7a2",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-13-front-nativefabric.png",
+      "sha256": "42f4824e2530d2a515d9f73c8f9c62b303334ea140e59dd50886a32d2f9830c3",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-13-back-skin.png",
+      "sha256": "f5ac2d2ca9edaff802989bd417bd495740ea3874d97c7df81ded7211f6ede93b",
+      "bounds": [
+        105,
+        50,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-13-back-fabric.png",
+      "sha256": "5cb46a2207227b36966148052f55a7f93ed4d984481f4ee63fdfeb88dc88bd4c",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-13-back-nativefabric.png",
+      "sha256": "744d4c25d594ce649fd19251be275e0c1b62b69aa6dd74137d6e88bbd86960cc",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-17-front-skin.png",
+      "sha256": "31273179a2599b1c42f581a64e2ac5d10f4b4fd89d71dba59426c6f393b3c99b",
+      "bounds": [
+        81,
+        52,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-17-front-fabric.png",
+      "sha256": "9c1006f451f5eeb27e0c29717ca36a3e50a17becf3e04e74a3f26f1285960d61",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-17-front-nativefabric.png",
+      "sha256": "0e77372a246c8c1f3b266b2dd046dd327078541b1639c0dfdc7680a7830f40fd",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-17-back-skin.png",
+      "sha256": "8cda3d35203af271ff352dfab39528a86e80e67d098160cd4e49ee194d9cce1d",
+      "bounds": [
+        105,
+        64,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-17-back-fabric.png",
+      "sha256": "1508f0285c2ca324630f2c1637d5734f04c6b8c6485fa1bc88a42144fe32d3a7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-17-back-nativefabric.png",
+      "sha256": "6dadda0766133676d438ef394cc23070d979b96de9974c4fd6398694e5ffd2e7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-18-front-skin.png",
+      "sha256": "a7f3b2bf16ec96b663e4ab9e0648d453a29f22629f61828fe8eabd1933f1efbf",
+      "bounds": [
+        81,
+        52,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-18-front-fabric.png",
+      "sha256": "483e5a5187ad25bc6f2670d56f82b70f6ae09cd8458d604202de813a39424fd5",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-18-front-nativefabric.png",
+      "sha256": "b05368712d9e340bff680ca7aabf578238864276dc3613b783b93c3d5fcb01e7",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-18-back-skin.png",
+      "sha256": "8f4884abd3b9bb9cfafb138fe11b153a40a0296bc00998153d49a9b91963dbb4",
+      "bounds": [
+        105,
+        64,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-18-back-fabric.png",
+      "sha256": "8346c5f03d7c865130d3e363ef439ca6c1f76a6c1e523ab83b17485472355da0",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-18-back-nativefabric.png",
+      "sha256": "64ee50f34a0f0bc36b474e7904eef7440e4f7d423862d9c71b5d1a825263dbef",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-19-front-skin.png",
+      "sha256": "4f6e42dc9398f25eb52c07ee38612989ee979be15c7ab6cd6506c03c5ea75c22",
+      "bounds": [
+        81,
+        52,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-19-front-fabric.png",
+      "sha256": "699f9a088e20ef86c3475b5fc57623e4cd7672d03f92c3b029e8b33c4ee1f811",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-19-front-nativefabric.png",
+      "sha256": "e7ddf3a5d6ba8a6a3d144f8b6085635830f0a45ce19bb9703017791e07918262",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-19-back-skin.png",
+      "sha256": "c6c0cc9e39c60bd9ca870c573edf7bf924bb57898a3c38b463d8917d5b097f5e",
+      "bounds": [
+        105,
+        64,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-19-back-fabric.png",
+      "sha256": "1508f0285c2ca324630f2c1637d5734f04c6b8c6485fa1bc88a42144fe32d3a7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-19-back-nativefabric.png",
+      "sha256": "6dadda0766133676d438ef394cc23070d979b96de9974c4fd6398694e5ffd2e7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-20-front-skin.png",
+      "sha256": "7d414828f833655e084c5f8206c9dec87d8c469b7357b152695e2d2a7e351775",
+      "bounds": [
+        81,
+        52,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-20-front-fabric.png",
+      "sha256": "699f9a088e20ef86c3475b5fc57623e4cd7672d03f92c3b029e8b33c4ee1f811",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-20-front-nativefabric.png",
+      "sha256": "e7ddf3a5d6ba8a6a3d144f8b6085635830f0a45ce19bb9703017791e07918262",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-20-back-skin.png",
+      "sha256": "cad6320dfd3feb903783935b7b1e17a7131608aaa8c4e23a74a3d870a5e0b3c2",
+      "bounds": [
+        105,
+        64,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-20-back-fabric.png",
+      "sha256": "1508f0285c2ca324630f2c1637d5734f04c6b8c6485fa1bc88a42144fe32d3a7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-20-back-nativefabric.png",
+      "sha256": "6dadda0766133676d438ef394cc23070d979b96de9974c4fd6398694e5ffd2e7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-21-front-skin.png",
+      "sha256": "b6aa69eabb892e2ce7d21a9a594db1e059d2b898b2fdaeb1ce7ab5b93a59ff6d",
+      "bounds": [
+        81,
+        52,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-21-front-fabric.png",
+      "sha256": "699f9a088e20ef86c3475b5fc57623e4cd7672d03f92c3b029e8b33c4ee1f811",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-21-front-nativefabric.png",
+      "sha256": "e7ddf3a5d6ba8a6a3d144f8b6085635830f0a45ce19bb9703017791e07918262",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-21-back-skin.png",
+      "sha256": "cbca35a07b223e1b1b9b7bda40ff3eb0eb8e99f497d4efcdd55f11f3116edd15",
+      "bounds": [
+        105,
+        64,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-21-back-fabric.png",
+      "sha256": "1508f0285c2ca324630f2c1637d5734f04c6b8c6485fa1bc88a42144fe32d3a7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-21-back-nativefabric.png",
+      "sha256": "6dadda0766133676d438ef394cc23070d979b96de9974c4fd6398694e5ffd2e7",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-22-front-skin.png",
+      "sha256": "da8386b121468aeaaa080af985bca2887f0f109152bc1dc5c7f71564ee6c67cf",
+      "bounds": [
+        81,
+        41,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-22-front-fabric.png",
+      "sha256": "abc847db468b781543214f3d0c755392a9e55f5391a6616acd1b3cfc0588d052",
+      "bounds": [
+        95,
+        50,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-22-front-nativefabric.png",
+      "sha256": "8578feb6916aafded85d7bfe635a56e08fe48b684999c16a0607355035e8f8eb",
+      "bounds": [
+        95,
+        50,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-22-back-skin.png",
+      "sha256": "232dc32083e1b7df00dcdfebf8ac1f87d302c96ac72fcc5ec13dff6932e29f1c",
+      "bounds": [
+        105,
+        21,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-22-back-fabric.png",
+      "sha256": "451f34c3236a07c52cf553cd214b36696fa52859175c506f46b7949fbe7f88d0",
+      "bounds": [
+        98,
+        32,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-22-back-nativefabric.png",
+      "sha256": "f6bb3d4e23cfa2b95e6c2fa76d9a074ecc4404c4128951329438dde75beee1de",
+      "bounds": [
+        98,
+        32,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-23-front-skin.png",
+      "sha256": "8322a4aa0b74635a44390d78cf0393e4cb17b1fc36875b10d5ee4770584ec224",
+      "bounds": [
+        81,
+        43,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-23-front-fabric.png",
+      "sha256": "282143115840e6e454831736f8b5366d013a0e38083977d4edfc33ce99103e3b",
+      "bounds": [
+        95,
+        73,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-23-front-nativefabric.png",
+      "sha256": "879e5059dbeb30a541c3581d9f83228e474e79c8247c1aba8ffa472ebcf76f75",
+      "bounds": [
+        95,
+        73,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-23-back-skin.png",
+      "sha256": "e372ee320d9086abbdc336eaea688721d30b02de9d8a2ca497f1fcf38047a16e",
+      "bounds": [
+        105,
+        27,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-23-back-fabric.png",
+      "sha256": "08e3aff1568e7baa2abebf183bd6451b8feed9e5d8e3f45d854f2f6da6eaa48f",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-23-back-nativefabric.png",
+      "sha256": "891a8d07bf60c64424a52d30d5f19af6f13758bebf0d07b7b6e9e6971f1ea177",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-24-front-skin.png",
+      "sha256": "9af005b051d17d639ebba714c6a8853ca8012c1af9b9f1c0322ec90dcec056df",
+      "bounds": [
+        81,
+        52,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-20-24-front-fabric.png",
+      "sha256": "f47da1d93ea08037f0b8b862f9ea8f936fa050253cea286f896db33488cde7a2",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-24-front-nativefabric.png",
+      "sha256": "42f4824e2530d2a515d9f73c8f9c62b303334ea140e59dd50886a32d2f9830c3",
+      "bounds": [
+        95,
+        48,
+        211,
+        226
+      ]
+    },
+    {
+      "file": "upper-20-24-back-skin.png",
+      "sha256": "71962c066f06e7c4aebd0ffd7dc299f559459019ba8289f5e713a90bc2557345",
+      "bounds": [
+        105,
+        50,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-20-24-back-fabric.png",
+      "sha256": "5cb46a2207227b36966148052f55a7f93ed4d984481f4ee63fdfeb88dc88bd4c",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-20-24-back-nativefabric.png",
+      "sha256": "744d4c25d594ce649fd19251be275e0c1b62b69aa6dd74137d6e88bbd86960cc",
+      "bounds": [
+        98,
+        30,
+        219,
+        235
+      ]
+    },
+    {
+      "file": "upper-22-00-front-skin.png",
+      "sha256": "e9073c333a680d4b22a0a28ca6596c62988b8c8f65b24b0c8b44e472256702bd",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-00-front-fabric.png",
+      "sha256": "5dc1dd5f2c9d8fe5f8e7c8d6dc5790bb40ab7544235d3e643be1b51e349e35ca",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-00-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-00-back-skin.png",
+      "sha256": "7bf9662f34dc6cfa41bc577a259e778f2f90ebc624243608cddc4971de7e3d5d",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-00-back-fabric.png",
+      "sha256": "1a7c33ba8c3055054c0bde48f2178bd074f5ced3f73262fccd737dede141dedf",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-00-back-nativefabric.png",
+      "sha256": "0f773795af73e2845253c299922eeed7825b1849612e3bdd0a811f16f5b0f11e",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-07-front-skin.png",
+      "sha256": "89f541fbfd438ada18ee07e52e7a3dd83b831ebcd66eebb85c8019538e2a69db",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-07-front-fabric.png",
+      "sha256": "5dc1dd5f2c9d8fe5f8e7c8d6dc5790bb40ab7544235d3e643be1b51e349e35ca",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-07-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-07-back-skin.png",
+      "sha256": "e4453902c928d9f3e9b70e1daae01b31bd9a7e457745e47e9643970c9cedc003",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-07-back-fabric.png",
+      "sha256": "1a7c33ba8c3055054c0bde48f2178bd074f5ced3f73262fccd737dede141dedf",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-07-back-nativefabric.png",
+      "sha256": "0f773795af73e2845253c299922eeed7825b1849612e3bdd0a811f16f5b0f11e",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-13-front-skin.png",
+      "sha256": "956afb364edbef7c8cd0723ea60ace444462be9cd4d6869ea0bdc30a735cdd2a",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-13-front-fabric.png",
+      "sha256": "6764888cc344c35604d4c7ea74c0f3c2efd6166ed762c872da8be6e399f7d294",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-13-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-13-back-skin.png",
+      "sha256": "36b393f93e01050985318ec73d8c16b72229cdbb076b27e4f8adcf9e88d34482",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-13-back-fabric.png",
+      "sha256": "be6ee59cc83be16074fa95dad7f753de229a93d8876476185c9773d2cc6aefb8",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-13-back-nativefabric.png",
+      "sha256": "a27b3b91182076a44cbd622a24bc91aac6a7fb9331db7efcdb74bf7a999572b0",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-17-front-skin.png",
+      "sha256": "25fd69f024842549de53de74cd03d792a50c8460c714778a6fd86f159ced8697",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-17-front-fabric.png",
+      "sha256": "5dc1dd5f2c9d8fe5f8e7c8d6dc5790bb40ab7544235d3e643be1b51e349e35ca",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-17-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-17-back-skin.png",
+      "sha256": "166bdf879be3caab579012cb7021675c74ba6abb59c07de8e50e449592aa67b7",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-17-back-fabric.png",
+      "sha256": "1a7c33ba8c3055054c0bde48f2178bd074f5ced3f73262fccd737dede141dedf",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-17-back-nativefabric.png",
+      "sha256": "0f773795af73e2845253c299922eeed7825b1849612e3bdd0a811f16f5b0f11e",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-18-front-skin.png",
+      "sha256": "90840046e7cb3ddeecae2022ac9518221c244de49a373788782f74f1a0936413",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-18-front-fabric.png",
+      "sha256": "7321cfd209600bd0bf866adec5343f7d845789b6d89f80282510c4c9e017b5cc",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-18-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-18-back-skin.png",
+      "sha256": "ddb40a93740243b1d9c7389cd7001e6cbd0dafedb69a0560f7e185c03b5dd03d",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-18-back-fabric.png",
+      "sha256": "3d65cb6b7fd6e69f2feb39614d6360b111baa48e271190af4e27ceedab605be5",
+      "bounds": [
+        99,
+        93,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-18-back-nativefabric.png",
+      "sha256": "e3bdf69be0bb86930d1f24625322fd5544b0a1fc7e1ae0b3b35f23dfe2c49e6d",
+      "bounds": [
+        99,
+        93,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-19-front-skin.png",
+      "sha256": "db591fd19cd8d05d3208c77d0235dfe0dd58788dd1494b558e377336011a5bee",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-19-front-fabric.png",
+      "sha256": "5dc1dd5f2c9d8fe5f8e7c8d6dc5790bb40ab7544235d3e643be1b51e349e35ca",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-19-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-19-back-skin.png",
+      "sha256": "bbd3a04309620042b8700f97a95135e8e9a46c5c96760fb3fe5d089ac5e3ff1f",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-19-back-fabric.png",
+      "sha256": "1a7c33ba8c3055054c0bde48f2178bd074f5ced3f73262fccd737dede141dedf",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-19-back-nativefabric.png",
+      "sha256": "0f773795af73e2845253c299922eeed7825b1849612e3bdd0a811f16f5b0f11e",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-20-front-skin.png",
+      "sha256": "96dfbd562ad175da28c8bd46a5b16599d154290319cd163aea04cd69e51626be",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-20-front-fabric.png",
+      "sha256": "5dc1dd5f2c9d8fe5f8e7c8d6dc5790bb40ab7544235d3e643be1b51e349e35ca",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-20-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-20-back-skin.png",
+      "sha256": "7d8d1079f76a5d1bc9920d46d5c90df2529157e31d508da8a799f8b593bfe7f4",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-20-back-fabric.png",
+      "sha256": "1a7c33ba8c3055054c0bde48f2178bd074f5ced3f73262fccd737dede141dedf",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-20-back-nativefabric.png",
+      "sha256": "0f773795af73e2845253c299922eeed7825b1849612e3bdd0a811f16f5b0f11e",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-21-front-skin.png",
+      "sha256": "39b9c9b8e66fd04b855ba5cceb6dd51a70d8e19122522e112f8934c105672d79",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-21-front-fabric.png",
+      "sha256": "5dc1dd5f2c9d8fe5f8e7c8d6dc5790bb40ab7544235d3e643be1b51e349e35ca",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-21-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-21-back-skin.png",
+      "sha256": "2ba54706a070bb233204d122b84ce5cb1e3365b7a53cec56bcbaac204dfa1232",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-21-back-fabric.png",
+      "sha256": "1a7c33ba8c3055054c0bde48f2178bd074f5ced3f73262fccd737dede141dedf",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-21-back-nativefabric.png",
+      "sha256": "0f773795af73e2845253c299922eeed7825b1849612e3bdd0a811f16f5b0f11e",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-22-front-skin.png",
+      "sha256": "059e6a72e92d47f2c138c5c6aca7638892793d414fa1b7caf7b3ee3ee5b301bb",
+      "bounds": [
+        81,
+        41,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-22-front-fabric.png",
+      "sha256": "5dc1dd5f2c9d8fe5f8e7c8d6dc5790bb40ab7544235d3e643be1b51e349e35ca",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-22-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-22-back-skin.png",
+      "sha256": "306e40fc6008202663fb537193668fd78ed2f0ec28357c4fff8cbc12beb925f6",
+      "bounds": [
+        104,
+        21,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-22-back-fabric.png",
+      "sha256": "1a7c33ba8c3055054c0bde48f2178bd074f5ced3f73262fccd737dede141dedf",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-22-back-nativefabric.png",
+      "sha256": "0f773795af73e2845253c299922eeed7825b1849612e3bdd0a811f16f5b0f11e",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-23-front-skin.png",
+      "sha256": "2a8457dbdfd11e82dcfced619f11375d431c3fa15cc1f45d18a1d2d6cef1b50f",
+      "bounds": [
+        81,
+        43,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-23-front-fabric.png",
+      "sha256": "5dc1dd5f2c9d8fe5f8e7c8d6dc5790bb40ab7544235d3e643be1b51e349e35ca",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-23-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-23-back-skin.png",
+      "sha256": "60feafc5c4f1b8041234f7407b50d749653dc45edb59b2d2e41203c1025f6252",
+      "bounds": [
+        104,
+        27,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-23-back-fabric.png",
+      "sha256": "1a7c33ba8c3055054c0bde48f2178bd074f5ced3f73262fccd737dede141dedf",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-23-back-nativefabric.png",
+      "sha256": "0f773795af73e2845253c299922eeed7825b1849612e3bdd0a811f16f5b0f11e",
+      "bounds": [
+        99,
+        91,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-24-front-skin.png",
+      "sha256": "3161da6c0162c71837e71a097067c8750e0d0e54c9b34f96705ab4060f64af6d",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-22-24-front-fabric.png",
+      "sha256": "6764888cc344c35604d4c7ea74c0f3c2efd6166ed762c872da8be6e399f7d294",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-24-front-nativefabric.png",
+      "sha256": "d55c7275d7b23b4d2d6f64925a85be7308f112d4a24390b3b7d4c8a95fa9f7ec",
+      "bounds": [
+        97,
+        103,
+        209,
+        225
+      ]
+    },
+    {
+      "file": "upper-22-24-back-skin.png",
+      "sha256": "51e1e1f19d945abf145f4a07b63731e9801bfceb4dfe7ce9e2f473b471f2b845",
+      "bounds": [
+        104,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-22-24-back-fabric.png",
+      "sha256": "be6ee59cc83be16074fa95dad7f753de229a93d8876476185c9773d2cc6aefb8",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-22-24-back-nativefabric.png",
+      "sha256": "a27b3b91182076a44cbd622a24bc91aac6a7fb9331db7efcdb74bf7a999572b0",
+      "bounds": [
+        99,
+        98,
+        217,
+        233
+      ]
+    },
+    {
+      "file": "upper-23-00-front-skin.png",
+      "sha256": "5e84bb5f595d088067a931f5ce6a6f80990658e24b5bac661ac9ba5d1ff2b8e2",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-00-front-fabric.png",
+      "sha256": "8a9ed990b62aac8a71201facedc3e2f0dfbbf5243d18679be41bbedd1a7bcde3",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-00-front-nativefabric.png",
+      "sha256": "155d49d8f44975abc3b4a22028aa06f4af8ae38b4c3dc36e40d36cc132c0d789",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-00-back-skin.png",
+      "sha256": "7c8ee890ece55b84b0b1af3670ea4c1e80285c21f6654e084a3860078dc9ecdd",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-00-back-fabric.png",
+      "sha256": "31f0b419573674aa3181eea886634cb18f821b17a9651590c32cce557696d269",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-00-back-nativefabric.png",
+      "sha256": "a4b502af0f079196f43ffccedfa07b040f33cee3f8cd573799b1a57d39bf3d36",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-07-front-skin.png",
+      "sha256": "20e3653fde1c5d7bee81218ce00f6d8d7f1c44ac3c33360fa07bc37279cf8cd6",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-07-front-fabric.png",
+      "sha256": "8a9ed990b62aac8a71201facedc3e2f0dfbbf5243d18679be41bbedd1a7bcde3",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-07-front-nativefabric.png",
+      "sha256": "155d49d8f44975abc3b4a22028aa06f4af8ae38b4c3dc36e40d36cc132c0d789",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-07-back-skin.png",
+      "sha256": "a9dd067815aca439aa92825e234fd09db075aa4bba559cab5e19479812294674",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-07-back-fabric.png",
+      "sha256": "31f0b419573674aa3181eea886634cb18f821b17a9651590c32cce557696d269",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-07-back-nativefabric.png",
+      "sha256": "a4b502af0f079196f43ffccedfa07b040f33cee3f8cd573799b1a57d39bf3d36",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-13-front-skin.png",
+      "sha256": "a9dd6952aed52b03c5d46a9cc89d7264c2e323f097a8c47a04eeb35802596abb",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-13-front-fabric.png",
+      "sha256": "b34b168f88e2051999692efdc5b43647fbd33edaf2f51299bc8f2e3bf5dfd1d6",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-13-front-nativefabric.png",
+      "sha256": "d29cdc8857cee5caaaa8c45bed3690f9faad1e64bcc708ef8522a1dbdf498693",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-13-back-skin.png",
+      "sha256": "15db9b67778ddaed62166f82da9444a85d0a4f8b086d8332967ddc871925def4",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-13-back-fabric.png",
+      "sha256": "2d5a1c5a463228b0d39b6646ec80264531e4644798192bebe87c6751fa9c29ed",
+      "bounds": [
+        99,
+        92,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-13-back-nativefabric.png",
+      "sha256": "e051c84fc438bc1613da53050c4e384b0d36369a6766c6cda6f65aa001fc1a3c",
+      "bounds": [
+        99,
+        92,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-17-front-skin.png",
+      "sha256": "6ab5d3b3dcade4498c7e43913c3d3d5f922105d9ab786499a6d7f95371b74ccb",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-17-front-fabric.png",
+      "sha256": "8a9ed990b62aac8a71201facedc3e2f0dfbbf5243d18679be41bbedd1a7bcde3",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-17-front-nativefabric.png",
+      "sha256": "155d49d8f44975abc3b4a22028aa06f4af8ae38b4c3dc36e40d36cc132c0d789",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-17-back-skin.png",
+      "sha256": "28ecf815a6247a632fe0ca0ee11a92ebb1e80f1182af18e18a17259d164685d0",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-17-back-fabric.png",
+      "sha256": "31f0b419573674aa3181eea886634cb18f821b17a9651590c32cce557696d269",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-17-back-nativefabric.png",
+      "sha256": "a4b502af0f079196f43ffccedfa07b040f33cee3f8cd573799b1a57d39bf3d36",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-18-front-skin.png",
+      "sha256": "2285baa6aac14ee6a8482976336f034e47dc4f89a9b3a3e54327da0b49e744d1",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-18-front-fabric.png",
+      "sha256": "36baad7392742f261e044697cb767eb094725e83460475e1dd1ab63d5bb8d83d",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-18-front-nativefabric.png",
+      "sha256": "fc0ab4fbc729d29e5c71fecc294c455d2861681f65b8c5325c8a66be7f4e1f13",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-18-back-skin.png",
+      "sha256": "ff469cc8aa6b0ce14c7f788e17f566cc3c0a7b6327543560308a9f6a17ea9c0b",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-18-back-fabric.png",
+      "sha256": "9e634df895084a49e4bb8e7e897f8a502d3c632f1df9ecb37d7def36ad8fd1a7",
+      "bounds": [
+        99,
+        90,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-18-back-nativefabric.png",
+      "sha256": "c4b14fe7ca2ba4050bb0dd4f83bfd6577b197ff6ae52c1caf78c22b372bf5dc7",
+      "bounds": [
+        99,
+        90,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-19-front-skin.png",
+      "sha256": "6d2330ce36ccf722609ce757a506630ef247e1049cba568b530f5622ecebf320",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-19-front-fabric.png",
+      "sha256": "8a9ed990b62aac8a71201facedc3e2f0dfbbf5243d18679be41bbedd1a7bcde3",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-19-front-nativefabric.png",
+      "sha256": "155d49d8f44975abc3b4a22028aa06f4af8ae38b4c3dc36e40d36cc132c0d789",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-19-back-skin.png",
+      "sha256": "d2544be49cb02fd282d281d4fd9bb37fec929f4b666f7b63e1512ac18f563a07",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-19-back-fabric.png",
+      "sha256": "31f0b419573674aa3181eea886634cb18f821b17a9651590c32cce557696d269",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-19-back-nativefabric.png",
+      "sha256": "a4b502af0f079196f43ffccedfa07b040f33cee3f8cd573799b1a57d39bf3d36",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-20-front-skin.png",
+      "sha256": "e2e6cb469c68c02bc4f3e8729332ab61d13ee61646d6f4a62f2fd523cd68a1dd",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-20-front-fabric.png",
+      "sha256": "8a9ed990b62aac8a71201facedc3e2f0dfbbf5243d18679be41bbedd1a7bcde3",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-20-front-nativefabric.png",
+      "sha256": "155d49d8f44975abc3b4a22028aa06f4af8ae38b4c3dc36e40d36cc132c0d789",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-20-back-skin.png",
+      "sha256": "aa647720795acdcf996d462872fdf233939343ba2f85121c556e6073d7b3362c",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-20-back-fabric.png",
+      "sha256": "31f0b419573674aa3181eea886634cb18f821b17a9651590c32cce557696d269",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-20-back-nativefabric.png",
+      "sha256": "a4b502af0f079196f43ffccedfa07b040f33cee3f8cd573799b1a57d39bf3d36",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-21-front-skin.png",
+      "sha256": "c8dfc25b079f570701f515d512c1f65cf8cec06168fc83f6065b094b8752f188",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-21-front-fabric.png",
+      "sha256": "8a9ed990b62aac8a71201facedc3e2f0dfbbf5243d18679be41bbedd1a7bcde3",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-21-front-nativefabric.png",
+      "sha256": "155d49d8f44975abc3b4a22028aa06f4af8ae38b4c3dc36e40d36cc132c0d789",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-21-back-skin.png",
+      "sha256": "6da8b5d49d6a5f809133091dbe133a80ed2bb67c45db50cb4f628f01dfb193c1",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-21-back-fabric.png",
+      "sha256": "31f0b419573674aa3181eea886634cb18f821b17a9651590c32cce557696d269",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-21-back-nativefabric.png",
+      "sha256": "a4b502af0f079196f43ffccedfa07b040f33cee3f8cd573799b1a57d39bf3d36",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-22-front-skin.png",
+      "sha256": "f9a0aea67b1902637e8d39f09d49be08252ec1c96ba3ff0e553013499aaa889c",
+      "bounds": [
+        81,
+        41,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-22-front-fabric.png",
+      "sha256": "8a9ed990b62aac8a71201facedc3e2f0dfbbf5243d18679be41bbedd1a7bcde3",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-22-front-nativefabric.png",
+      "sha256": "155d49d8f44975abc3b4a22028aa06f4af8ae38b4c3dc36e40d36cc132c0d789",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-22-back-skin.png",
+      "sha256": "dad59149cfb35ae8d52c85d42faea1ee4aa6c8f39099d56864896df63465193f",
+      "bounds": [
+        116,
+        21,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-22-back-fabric.png",
+      "sha256": "31f0b419573674aa3181eea886634cb18f821b17a9651590c32cce557696d269",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-22-back-nativefabric.png",
+      "sha256": "a4b502af0f079196f43ffccedfa07b040f33cee3f8cd573799b1a57d39bf3d36",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-23-front-skin.png",
+      "sha256": "fc4e21b36d7740fc86b5550a1dc57dd249e7a13bd79f5730e6045d0f3e4f1a06",
+      "bounds": [
+        81,
+        43,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-23-front-fabric.png",
+      "sha256": "8a9ed990b62aac8a71201facedc3e2f0dfbbf5243d18679be41bbedd1a7bcde3",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-23-front-nativefabric.png",
+      "sha256": "155d49d8f44975abc3b4a22028aa06f4af8ae38b4c3dc36e40d36cc132c0d789",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-23-back-skin.png",
+      "sha256": "92f919a7169a1da4e9fa102d5993920fe0005b6f5c0323a27b63aa23cf7513ae",
+      "bounds": [
+        116,
+        27,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-23-back-fabric.png",
+      "sha256": "31f0b419573674aa3181eea886634cb18f821b17a9651590c32cce557696d269",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-23-back-nativefabric.png",
+      "sha256": "a4b502af0f079196f43ffccedfa07b040f33cee3f8cd573799b1a57d39bf3d36",
+      "bounds": [
+        99,
+        87,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-24-front-skin.png",
+      "sha256": "c0d5bbd172335bb3b35195127f140616a3452b2b99dc3e3c3541a5591e6bb9ca",
+      "bounds": [
+        81,
+        50,
+        232,
+        238
+      ]
+    },
+    {
+      "file": "upper-23-24-front-fabric.png",
+      "sha256": "b34b168f88e2051999692efdc5b43647fbd33edaf2f51299bc8f2e3bf5dfd1d6",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-24-front-nativefabric.png",
+      "sha256": "d29cdc8857cee5caaaa8c45bed3690f9faad1e64bcc708ef8522a1dbdf498693",
+      "bounds": [
+        95,
+        100,
+        218,
+        225
+      ]
+    },
+    {
+      "file": "upper-23-24-back-skin.png",
+      "sha256": "6a0519756c4f8e4ca015fbc622d2698faff2421dbab7925520aecbea00079c9b",
+      "bounds": [
+        116,
+        33,
+        251,
+        209
+      ]
+    },
+    {
+      "file": "upper-23-24-back-fabric.png",
+      "sha256": "2d5a1c5a463228b0d39b6646ec80264531e4644798192bebe87c6751fa9c29ed",
+      "bounds": [
+        99,
+        92,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-23-24-back-nativefabric.png",
+      "sha256": "e051c84fc438bc1613da53050c4e384b0d36369a6766c6cda6f65aa001fc1a3c",
+      "bounds": [
+        99,
+        92,
+        229,
+        232
+      ]
+    },
+    {
+      "file": "upper-24-00-front-skin.png",
+      "sha256": "5cebb7da0ba348308879e7d4a153edf12169a9c56be834e951c66efe6caf0797",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-00-front-fabric.png",
+      "sha256": "4ef5eb4c0ffe1ae7ba26b962c8961403892b6da859d07b8a727ef4783f42fc08",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-00-front-nativefabric.png",
+      "sha256": "3878f46a68b75221117901621e7c5ff952cfcded5a2721b1a9adfc8c25846363",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-00-back-skin.png",
+      "sha256": "085504b571cbf7907f866d3e8095785c94959165677481f397725f7b15e74510",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-00-back-fabric.png",
+      "sha256": "d2b26fb023f937da06af1b0f29adfd4fd083a76d6c5352a47fd5615daef305ca",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-00-back-nativefabric.png",
+      "sha256": "9ed88bf5f6a1b31ebab663ac57e6da315f75cfc250e3ef98d651d2ea4f91b075",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-07-front-skin.png",
+      "sha256": "30882db0ca1841aa61ef5699e74c0a0430ddab2cf019eb86a37477fe272867ba",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-07-front-fabric.png",
+      "sha256": "4ef5eb4c0ffe1ae7ba26b962c8961403892b6da859d07b8a727ef4783f42fc08",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-07-front-nativefabric.png",
+      "sha256": "3878f46a68b75221117901621e7c5ff952cfcded5a2721b1a9adfc8c25846363",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-07-back-skin.png",
+      "sha256": "be8274e11ec0a641bf1174002d0f03d88adaf0b71943585486e0ad475b2651a2",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-07-back-fabric.png",
+      "sha256": "d2b26fb023f937da06af1b0f29adfd4fd083a76d6c5352a47fd5615daef305ca",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-07-back-nativefabric.png",
+      "sha256": "9ed88bf5f6a1b31ebab663ac57e6da315f75cfc250e3ef98d651d2ea4f91b075",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-13-front-skin.png",
+      "sha256": "0ae4fc2daa5ba1439bfbc2ac41be14e77211bd4b4ad5e37b73e0e3da555260c7",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-13-front-fabric.png",
+      "sha256": "74fd044ada38bbd4f15c755263d1a76cb1abb69def814213618548112ae8f872",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-13-front-nativefabric.png",
+      "sha256": "3d12a3182367fb58a67524ca47c51ee39caaf90a07f85a57e65d9682d013eeca",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-13-back-skin.png",
+      "sha256": "a87fdb23e18b6215ab701f0c488fb2e6b867e5f37412289a3d5f46c8e49a6929",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-13-back-fabric.png",
+      "sha256": "f406c2875501caceb76209363334b0596c8d03cdabdaa09e5db210818cee11ba",
+      "bounds": [
+        103,
+        98,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-13-back-nativefabric.png",
+      "sha256": "d1d69cbcd660a2ccc8e37a6c957015e63232bb559b508e4cb328ca4c58409ec1",
+      "bounds": [
+        103,
+        98,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-17-front-skin.png",
+      "sha256": "89d6f1b913854bcfe1857c2b3bf2cdc7517b71a60e2f4c02a5cadc2e831c8669",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-17-front-fabric.png",
+      "sha256": "4ef5eb4c0ffe1ae7ba26b962c8961403892b6da859d07b8a727ef4783f42fc08",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-17-front-nativefabric.png",
+      "sha256": "3878f46a68b75221117901621e7c5ff952cfcded5a2721b1a9adfc8c25846363",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-17-back-skin.png",
+      "sha256": "1ec355e9c54f8a1312611587d751021e34e4d76e7133fd61ccc53172f72f7b15",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-17-back-fabric.png",
+      "sha256": "d2b26fb023f937da06af1b0f29adfd4fd083a76d6c5352a47fd5615daef305ca",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-17-back-nativefabric.png",
+      "sha256": "9ed88bf5f6a1b31ebab663ac57e6da315f75cfc250e3ef98d651d2ea4f91b075",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-18-front-skin.png",
+      "sha256": "ead83ba2e14c15bdf9bfdbc657d9c1a8bfd0bebdf525e7326f6476a1a9a283fe",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-18-front-fabric.png",
+      "sha256": "e21d0693ee5f12794eaf43fffba7764f49f196d4aa4532e9fcc3d835f25dc463",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-18-front-nativefabric.png",
+      "sha256": "f6e8564973e82b4b4f810b7c38233e66cf97172d3ccf1b39d5ee79815a19dca7",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-18-back-skin.png",
+      "sha256": "dac41786af14adacdcc3742b771fa863eb0a2fed48b81046b4be798cb5732da8",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-18-back-fabric.png",
+      "sha256": "45b2ec67048c48dd42203ac8848284ec9377fbbb2eec9a2d90f2549d53f77c52",
+      "bounds": [
+        103,
+        93,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-18-back-nativefabric.png",
+      "sha256": "237538257576a7dea352031983440d05fb11ef83882d9b955846a1ce160ca8fa",
+      "bounds": [
+        103,
+        93,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-19-front-skin.png",
+      "sha256": "4755ad69650a305664f0185f368489121da72a096897dcc2ea291707c68b5d42",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-19-front-fabric.png",
+      "sha256": "4ef5eb4c0ffe1ae7ba26b962c8961403892b6da859d07b8a727ef4783f42fc08",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-19-front-nativefabric.png",
+      "sha256": "3878f46a68b75221117901621e7c5ff952cfcded5a2721b1a9adfc8c25846363",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-19-back-skin.png",
+      "sha256": "3b77951f878932adc4041bfa154df1976179c9ade187f7b1130b93fcd3df37b4",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-19-back-fabric.png",
+      "sha256": "d2b26fb023f937da06af1b0f29adfd4fd083a76d6c5352a47fd5615daef305ca",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-19-back-nativefabric.png",
+      "sha256": "9ed88bf5f6a1b31ebab663ac57e6da315f75cfc250e3ef98d651d2ea4f91b075",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-20-front-skin.png",
+      "sha256": "31be38f6e4a100874fd7675ca38aac69f6656c5c5774a1adb7396506a8bbba1b",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-20-front-fabric.png",
+      "sha256": "4ef5eb4c0ffe1ae7ba26b962c8961403892b6da859d07b8a727ef4783f42fc08",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-20-front-nativefabric.png",
+      "sha256": "3878f46a68b75221117901621e7c5ff952cfcded5a2721b1a9adfc8c25846363",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-20-back-skin.png",
+      "sha256": "3e5db85080cd4cd1a2651ef76bbd9cb799dba9d620217a358371df6759963fe8",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-20-back-fabric.png",
+      "sha256": "d2b26fb023f937da06af1b0f29adfd4fd083a76d6c5352a47fd5615daef305ca",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-20-back-nativefabric.png",
+      "sha256": "9ed88bf5f6a1b31ebab663ac57e6da315f75cfc250e3ef98d651d2ea4f91b075",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-21-front-skin.png",
+      "sha256": "082815cd3891afc01931d27eb0c4e4799db56396f254747fc0ea2e6569c597a9",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-21-front-fabric.png",
+      "sha256": "4ef5eb4c0ffe1ae7ba26b962c8961403892b6da859d07b8a727ef4783f42fc08",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-21-front-nativefabric.png",
+      "sha256": "3878f46a68b75221117901621e7c5ff952cfcded5a2721b1a9adfc8c25846363",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-21-back-skin.png",
+      "sha256": "a9e101493d93efd8693b28fc4fcde0571fde04121151aa9666defec5b709462c",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-21-back-fabric.png",
+      "sha256": "d2b26fb023f937da06af1b0f29adfd4fd083a76d6c5352a47fd5615daef305ca",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-21-back-nativefabric.png",
+      "sha256": "9ed88bf5f6a1b31ebab663ac57e6da315f75cfc250e3ef98d651d2ea4f91b075",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-22-front-skin.png",
+      "sha256": "c151c9ce6f056a3c174093016c830dc966bc1580301e7bcdcf2764bc51b07af7",
+      "bounds": [
+        87,
+        41,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-22-front-fabric.png",
+      "sha256": "4ef5eb4c0ffe1ae7ba26b962c8961403892b6da859d07b8a727ef4783f42fc08",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-22-front-nativefabric.png",
+      "sha256": "3878f46a68b75221117901621e7c5ff952cfcded5a2721b1a9adfc8c25846363",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-22-back-skin.png",
+      "sha256": "7025dac8eb704beb6b265e32424c62c433d64a6fe77f3e09c0c551b0b890e8b9",
+      "bounds": [
+        108,
+        21,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-22-back-fabric.png",
+      "sha256": "d2b26fb023f937da06af1b0f29adfd4fd083a76d6c5352a47fd5615daef305ca",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-22-back-nativefabric.png",
+      "sha256": "9ed88bf5f6a1b31ebab663ac57e6da315f75cfc250e3ef98d651d2ea4f91b075",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-23-front-skin.png",
+      "sha256": "b5862fcfa13be9625b9f82d5cf1fb417b4489b5daa0bc9dd0ba4ab3125a6e807",
+      "bounds": [
+        87,
+        43,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-23-front-fabric.png",
+      "sha256": "4ef5eb4c0ffe1ae7ba26b962c8961403892b6da859d07b8a727ef4783f42fc08",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-23-front-nativefabric.png",
+      "sha256": "3878f46a68b75221117901621e7c5ff952cfcded5a2721b1a9adfc8c25846363",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-23-back-skin.png",
+      "sha256": "36c30eee0424109a7740a6b5f6c91e0919a6f2d8a12df16a2a99ba835bf2e66a",
+      "bounds": [
+        108,
+        27,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-23-back-fabric.png",
+      "sha256": "d2b26fb023f937da06af1b0f29adfd4fd083a76d6c5352a47fd5615daef305ca",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-23-back-nativefabric.png",
+      "sha256": "9ed88bf5f6a1b31ebab663ac57e6da315f75cfc250e3ef98d651d2ea4f91b075",
+      "bounds": [
+        103,
+        91,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-24-front-skin.png",
+      "sha256": "2cf413d5e2e728f566505d713a7b7676d74f1080d9f90aa1fbbcffecbcd35b5f",
+      "bounds": [
+        87,
+        50,
+        225,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-24-front-fabric.png",
+      "sha256": "74fd044ada38bbd4f15c755263d1a76cb1abb69def814213618548112ae8f872",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-24-front-nativefabric.png",
+      "sha256": "3d12a3182367fb58a67524ca47c51ee39caaf90a07f85a57e65d9682d013eeca",
+      "bounds": [
+        103,
+        103,
+        202,
+        231
+      ]
+    },
+    {
+      "file": "upper-24-24-back-skin.png",
+      "sha256": "1247db7bac6b8a52989bb1521267f095d3ac3d09588c3c9a74313a88dd445d49",
+      "bounds": [
+        108,
+        33,
+        244,
+        211
+      ]
+    },
+    {
+      "file": "upper-24-24-back-fabric.png",
+      "sha256": "f406c2875501caceb76209363334b0596c8d03cdabdaa09e5db210818cee11ba",
+      "bounds": [
+        103,
+        98,
+        209,
+        240
+      ]
+    },
+    {
+      "file": "upper-24-24-back-nativefabric.png",
+      "sha256": "d1d69cbcd660a2ccc8e37a6c957015e63232bb559b508e4cb328ca4c58409ec1",
+      "bounds": [
+        103,
+        98,
+        209,
+        240
+      ]
+    }
+  ]
+}

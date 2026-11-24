@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="LiteNetLib" Version="2.1.4" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(MonMPDevelopmentTools)' != 'true'">
+    <Compile Remove="Testing/**/*.cs" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(MonMPLocalTestIsolation)' == 'true' and '$(MonMPDevelopmentTools)' != 'true'">
+    <Compile Include="Testing/LocalTestOptions.cs;Testing/IsolatedPreferences.cs" />
+  </ItemGroup>
+  <Target Name="GenerateSessionVersion" BeforeTargets="CoreCompile">
+    <WriteLinesToFile File="$(IntermediateOutputPath)SessionVersion.g.cs"
+      Lines="namespace MonMP.Core.Session { public sealed partial class SessionOptions { public const string CurrentModVersion = &quot;$(Version)&quot;%3B } }"
+      Overwrite="true" WriteOnlyWhenDifferent="true" />
+    <ItemGroup>
+      <Compile Include="$(IntermediateOutputPath)SessionVersion.g.cs" />
+    </ItemGroup>
+  </Target>
+</Project>

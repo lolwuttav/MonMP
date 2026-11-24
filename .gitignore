@@ -1,0 +1,24 @@
+.deps/
+.artifacts/
+artifacts/
+bin/
+obj/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.binlog
+*.log
+*.dll
+*.exe
+*.pdb
+*.zip
+.env
+.env.*
+/MonBazou/
+/Mon Bazou/
+/BepInEx/
+/.codex*/
+/review/
+/src/MonMP.Plugin/UI/AppearancePortraits/*.png

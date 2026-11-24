@@ -1,0 +1,12 @@
+MonMP
+Copyright (C) 2026 Kenward.
+Licensed under GNU GPL version 3 or, at your option, any later version.
+See the LICENSE file at the archive root.
+
+Additional permission under GNU GPL version 3 section 7: if you modify this
+program, or any covered work, by linking or combining it with Mon Bazou, the
+Unity engine or BepInEx (or modified versions of them), containing parts covered
+by the terms of their licenses, the licensors of this program grant you
+additional permission to convey the resulting work.
+
+Third-party components retain their own licenses and notices.

@@ -1,0 +1,12 @@
+MonMP character-selection preview images
+
+The UI portraits are rendered screenshots of Mon Bazou's native character art,
+produced by MonMP's isolated render workflow. No original game mesh, texture,
+rig, animation or scene files are included in these portrait resources.
+
+Mon Bazou's character artwork retains its original ownership. The GNU GPL
+license for MonMP's code does not grant rights to the game's artwork.
+
+The portrait source manifest records image hashes and the native render
+manifest fingerprint. This source distribution includes the manifest.
+See BUILDING.md to import verified previews from a local MonMP release.
